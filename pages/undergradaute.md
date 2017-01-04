@@ -18,10 +18,8 @@ The Gender, Sexuality, and Women’s Studies program provides students with sens
 
 ## Academic Offerings
 
-• BA in Gender, Sexuality, and Women’s Studies
-• Minor in Gender, Sexuality, and Women’s Studies
-• Minor in LGBT Studies
-• Undergraduate Certificate in Gender, Sexuality,
-and Women’s Studies
-• Graduate Certificate in Gender, Sexuality, and
-Women’s Studies
+- BA in Gender, Sexuality, and Women’s Studies
+- Minor in Gender, Sexuality, and Women’s Studies
+- Minor in LGBT Studies
+- Undergraduate Certificate in Gender, Sexuality, and Women’s Studies
+- Graduate Certificate in Gender, Sexuality, and Women’s Studies
