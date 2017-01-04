@@ -4,17 +4,18 @@ permalink: "/research"
 layout: page
 ---
 
+## Links of Interest
+ 
+[Inside Out Center](http://insideoutcenter.org/) 
+[The Feminist Wire](http://thefeministwire.com/) 
+[Women's Policy, Inc.](http://www.womenspolicy.org/) 
+[National Women's Studies Association](http://www.nwsa.org/) 
+[MANA: A National Latina Organization](http://www.hermana.org/)
+[National Organization for Women (NOW)](http://now.org/) 
+[Kolot Jewish Women's and Gender Studies](http://www.rrc.edu/kolot) 
+[Greater Philadelphia Women's Studies Consortium](http://gpwsc0.wix.com/gpwsc) 
+[National Organization for African-American Women](http://www.noaw.org/) 
+[The American Association of University Women (AAUW)](http://www.aauw.org/who-we-are/) 
+[Temple University Harassment Policy (revised 3/1/11)](http://policies.temple.edu/PDF/140.pdf) 
 
-## Check out this research program!
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-https://temple.edu
-
----
-
-## Check out this research program!
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-https://temple.edu
+[Laws.com](http://laws.com/) -This website features a dedicated women's rights section that includes domestic violence resources such as hotlines, tiplines, news, and laws, as well as women's rights articles with a focus on the applicable laws.
