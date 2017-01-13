@@ -16,5 +16,5 @@ layout: page
 - [Greater Philadelphia Women's Studies Consortium](http://gpwsc0.wix.com/gpwsc)
 - [National Organization for African-American Women](http://www.noaw.org/)
 - [The American Association of University Women (AAUW)](http://www.aauw.org/who-we-are/)
-- [Temple University Harassment Policy (revised 3/1/11)](http://policies.temple.edu/PDF/366.pdf) 
+- [Temple University Harassment Policy](http://policies.temple.edu/PDF/366.pdf) 
 - [Laws.com](http://laws.com/) -This website features a dedicated women's rights section that includes domestic violence resources such as hotlines, tiplines, news, and laws, as well as women's rights articles with a focus on the applicable laws.
