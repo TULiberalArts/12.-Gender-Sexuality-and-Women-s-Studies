@@ -1,7 +1,8 @@
 ---
 title: Graduate
-permalink: "/graduate"
+permalink: /graduate
 layout: page
+published: true
 ---
 
 ## Graduate Certificate Program
@@ -18,8 +19,6 @@ Each student must complete 6 semester hours of course work in the Gender, Sexual
 - GSWS 9991: Seminar in Feminist Reseach (3 credits)
 
 In addition, students take at least 6 semester hours in approved courses that focus on gender from their own or any cooperating department and complete a research project. Students working on a Temple graduate degree may satisfy the research requirement by focusing on women or gender in their final project, thesis, or dissertation.
-
-For descriptions of all Gender, Sexuality and Women's Studies courses please go to the [Graduate Bulletin](http://bulletin.temple.edu/graduate/courses/gsws/).
 
 ## Admissions
 
