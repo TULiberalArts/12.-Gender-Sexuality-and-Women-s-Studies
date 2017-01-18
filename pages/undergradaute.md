@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: /undergraduate
 layout: page
+published: true
 ---
 
 ## Unmatched Support
@@ -18,8 +19,8 @@ The Gender, Sexuality, and Women’s Studies program provides students with sens
 
 ## Academic Offerings
 
-- BA in Gender, Sexuality, and Women’s Studies
-- Minor in Gender, Sexuality, and Women’s Studies
-- Minor in LGBT Studies
-- Undergraduate Certificate in Gender, Sexuality, and Women’s Studies
+- [BA in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/ba-gender-sexuality-womens-studies/)
+- [Minor in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-gender-sexuality-womens-studies/)
+- [Minor in LGBT Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/lesbian-gay-bisexual-transgender-lgbt-minor/#text)
+- [Undergraduate Certificate in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/certificate-gender-sexuality-womens-studies/)
 - Graduate Certificate in Gender, Sexuality, and Women’s Studies
