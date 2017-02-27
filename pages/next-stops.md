@@ -17,11 +17,13 @@ Gender, Sexuality, and Women’s Studies students have secured internships acros
 
 ## Make Your Declaration
 
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts. For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu). 
+The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts. 
+
+For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu). 
 
 ## Visit Us!
 
-The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](temple.edu/visit) If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
+The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
 
 For more information, please go to: [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit).
 
