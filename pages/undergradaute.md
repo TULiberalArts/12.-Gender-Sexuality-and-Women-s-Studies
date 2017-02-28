@@ -13,6 +13,13 @@ Gender, Sexuality, and Women’s Studies is a small, close knit program where st
 
 The Gender, Sexuality, and Women’s Studies program provides students with sensitivity of mind and a freedom of thought to think about issues pertaining to gender, race, sexuality, class, age, disability, nationality and other pertinent issues. We encourage and challenge our students to make connections and come to a deeper understanding of the world around them.
 
+## Gender, Sexuality and Women's Studies Certificate of Specialization
+
+The Certificate of Specialization is designed for students outside the College of Liberal Arts who want to pursue a Gender, Sexuality and Women's Studies-oriented career. 4 courses are required for the certificate: Intro to Women's Studies (1096), Field Work (4389), and 2 electives, at least one of which must be at the upper level.
+
+Temple also has a specialized certificate in Jewish Women's Studies that is administered jointly with the Reconstructionist Rabbinical College and Kolot, its Center for Jewish Women's and Gender Studies.
+Kolot Jewish Women's Studies Certificate
+
 ## Academic Offerings
 
 - [BA in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/ba-gender-sexuality-womens-studies/)
