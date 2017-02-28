@@ -11,7 +11,7 @@ Many of our courses are student-driven. Above all else, we listen to what our st
 
 ![lgbtqflag.jpg]({{site.baseurl}}/media/lgbtqflag.jpg)
 
-## BOX NUMBER 1- [Temple LQBTQ Enagement Opportunities](http://wellness.temple.edu/gender-and-sexuality-inclusiveness)
+## BOX NUMBER 1- [Temple LQBTQ Engagement Opportunities](http://wellness.temple.edu/gender-and-sexuality-inclusiveness)
 
 Connect to LGBTQ programs and resources right here on campus! 
 
