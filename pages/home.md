@@ -15,7 +15,7 @@ Many of our courses are student-driven. Above all else, we listen to what our st
 
 Connect to LGBTQ programs and resources right here on campus! 
 
-## BOX NUMBER 2- _**Certificate for Non College of Liberal Arts Students! (link to 3rd heading on undergrad page that describes this certificate and the Jewiah Womens Studies certificate)**_
+## BOX NUMBER 2- _**Certificate for Non College of Liberal Arts Students! (link to 3rd heading on undergrad page that describes this certificate and the Jewish Womens Studies certificate)**_
 
 Learn more about our certificate for all students who would like to pursue a career in the field of Gender and Women's Studies! 
 
