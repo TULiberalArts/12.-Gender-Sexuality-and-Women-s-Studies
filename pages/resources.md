@@ -23,3 +23,5 @@ Established by Sonia Sanchez, Professor of English and Gender, Sexuality and Wom
 **Certificate of Excellence**
 
 The Gender, Sexuality and Women's Studies Certificate of Excellence is awarded to a student who performs community service as an activist in the health and social work professions, maintains academic excellence, and has been employed during some portion of his/her study at Temple University.
+
+### [Temple Career Center Resources for LGBTQIA Students](http://www.temple.edu/provost/careercenter/students/lgbtq-students.html) 
