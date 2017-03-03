@@ -5,6 +5,21 @@ layout: page
 published: true
 ---
 
+Director:
+
+Judith Levine 
+Department of Sociology
+811 Anderson Hall
+[(215) 204-7963](tel:2152047963)
+[jlevine@temple.edu](mailto:jlevine@temple.edu)
+
+Administrator:
+
+Stephanie Morawski
+1041 Anderson Hall
+[(215) 204-8516](tel:2152048516)
+[morawski@temple.edu](mailto:morawski@temple.edu)
+
 ## Student Awards
 
 The Gender, Sexuality and Women’s Studies Program has four annual undergraduate awards that honor academic and creative excellence in our students. The awards are acknowledged and celebrated by an annual formal award dinner sponsored by the College of Liberal Arts for all undergraduate awards granted by departments in the liberal arts. Students invite faculty members to join them in their celebration, as well as family and friends. The event fosters the appreciation of both undergraduate academic achievement and mentor/student relationships.
@@ -24,4 +39,4 @@ Established by Sonia Sanchez, Professor of English and Gender, Sexuality and Wom
 
 The Gender, Sexuality and Women's Studies Certificate of Excellence is awarded to a student who performs community service as an activist in the health and social work professions, maintains academic excellence, and has been employed during some portion of his/her study at Temple University.
 
-### [Temple Career Center Resources for LGBTQIA Students](http://www.temple.edu/provost/careercenter/students/lgbtq-students.html) 
+### [Temple Career Center Resources for LGBTQIA Students](http://www.temple.edu/provost/careercenter/students/lgbtq-students.html)
