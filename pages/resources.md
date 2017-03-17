@@ -7,18 +7,18 @@ published: true
 
 Director:
 
-Judith Levine 
-Department of Sociology
-811 Anderson Hall
-[(215) 204-7963](tel:2152047963)
-[jlevine@temple.edu](mailto:jlevine@temple.edu)
+Judith Levine<br/> 
+Department of Sociology<br/>
+811 Anderson Hall<br/>
+[(215) 204-7963](tel:2152047963)<br/>
+[jlevine@temple.edu](mailto:jlevine@temple.edu)<br/>
 
 Administrator:
 
-Stephanie Morawski
-1041 Anderson Hall
-[(215) 204-8516](tel:2152048516)
-[morawski@temple.edu](mailto:morawski@temple.edu)
+Stephanie Morawski<br/>
+1041 Anderson Hall<br/>
+[(215) 204-8516](tel:2152048516)<br/>
+[morawski@temple.edu](mailto:morawski@temple.edu)<br/>
 
 ## Student Awards
 
