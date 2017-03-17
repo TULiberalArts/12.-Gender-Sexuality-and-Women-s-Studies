@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-Director:
+**Director:**
 
 Judith Levine<br/> 
 Department of Sociology<br/>
@@ -13,7 +13,7 @@ Department of Sociology<br/>
 [(215) 204-7963](tel:2152047963)<br/>
 [jlevine@temple.edu](mailto:jlevine@temple.edu)<br/>
 
-Administrator:
+**Administrator:**
 
 Stephanie Morawski<br/>
 1041 Anderson Hall<br/>
