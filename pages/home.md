@@ -17,7 +17,7 @@ Above all else, we listen to what our students want to learn about, and many of 
 <br />
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
-    title="LQBTQ Engagement Opportunities"
+    title="LGBTQ Engagement Opportunities"
     content="Connect to LGBTQ programs and resources right here on campus."
     image=""
     button-link="http://wellness.temple.edu/gender-and-sexuality-inclusiveness"
@@ -25,10 +25,10 @@ Above all else, we listen to what our students want to learn about, and many of 
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="Certificate for Non College of Liberal Arts Students"
+      title="Certificate for Non-Liberal Arts Students"
       content="Learn more about our certificate for all students interested in the field of Gender and Women's Studies."
       image=""
-      button-link="resources/#certificate-of-excellence"
+      button-link="http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/certificate-gender-sexuality-womens-studies/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
