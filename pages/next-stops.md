@@ -7,13 +7,8 @@ published: true
 
 ## Next Stops
 
-Gender, Sexuality and Women’s Studies students have secured internships across many diverse fields, including:
+Gender, Sexuality and Women’s Studies students have secured internships and positions in many diverse fields, including government, media outlets, LGBTQ centers, advertising firms and crisis centers. Whatever your professional interests, we'll help you get there. 
 
-- Government
-- Media outlets
-- LGBTQ centers
-- Advertising firms
-- Crisis centers
 
 ## Make Your Declaration
 
