@@ -24,6 +24,7 @@ Stephanie Morawski<br/>
 The Gender, Sexuality and Women’s Studies Program has four annual undergraduate awards that honor academic and creative excellence in our students. The awards are acknowledged and celebrated by an annual formal award dinner sponsored by the College of Liberal Arts for all undergraduate awards granted by departments in the liberal arts. Students invite faculty members to join them in their celebration, as well as family and friends. The event fosters the appreciation of both undergraduate academic achievement and mentor/student relationships.
 
 **Barbara Brownstein Prize in Gender, Sexuality and Women's Studies**
+
 This award is given by the Gender, Sexuality and Women’s Studies Program to honor Barbara Brownstein, former Provost, Professor of Biology, and Director of the Women’s Studies Program. It is awarded to a graduating senior and Women’s Studies major in recognition of leadership and academic excellence.
 
 **Sonia Sanchez Scholarship**
