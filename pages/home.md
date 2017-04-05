@@ -13,6 +13,7 @@ feature-body: >
 feature-image: media/hero_bg.png
 published: true
 ---
+Above all else, we listen to what you want to learn about. Our students work independently as well as in groups, join student organizations and land internships throughout the region in various industries. Many of our courses are cross-listed with other courses, which makes it easier for students to graduate on time
 <br />
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
