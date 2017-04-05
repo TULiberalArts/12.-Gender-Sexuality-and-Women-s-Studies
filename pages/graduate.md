@@ -18,7 +18,7 @@ Each student must complete 6 semester hours of course work in the Gender, Sexual
 - GSWS 8001: Introduction to Feminist Studies (3 credits)
 - GSWS 9991: Seminar in Feminist Reseach (3 credits)
 
-In addition, students take at least 6 semester hours in approved courses that focus on gender from their own or any cooperating department and complete a research project. Students working on a Temple graduate degree may satisfy the research requirement by focusing on women or gender in their final project, thesis, or dissertation.
+In addition, students take at least 6 semester hours in approved courses that focus on gender from their own or any cooperating department and complete a research project. Students working on a Temple graduate degree may satisfy the research requirement by focusing on women or gender in their final project, thesis or dissertation.
 
 ## Admissions
 
@@ -26,7 +26,7 @@ If the certificate is to be obtained in conjunction with a master's or doctoral 
 
 [Letter of Application]({{ '/docs/gradtemapp.pdf' | prepend: site.baseurl }}) for students enrolled at Temple.
 
-Students not enrolled in a Temple University graduate degree program who are applying for the freestanding certificate must submit:
+Students not enrolled in a Temple University graduate degree program who are applying for the freestanding certificate must submit the following:
 
 - A completed external application form, which may be also obtained as a hard copy from the Gender, Sexuality and Women's Studies Program in 811 Anderson Hall;
 - An official transcript of all previous college work, showing a baccalaureate degree from an accredited university and an undergradute GPA of at least 3.0 (on a four-point scale);
