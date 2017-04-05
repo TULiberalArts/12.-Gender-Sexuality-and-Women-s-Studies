@@ -7,7 +7,7 @@ published: true
 
 ## Next Stops
 
-Gender, Sexuality and Women’s Studies students have secured internships and positions in many diverse fields, including government, media outlets, LGBTQ centers, advertising firms and crisis centers. Whatever your professional interests, we'll help you get there. 
+Our students learn about the issues not only intellectually but also actively, through fieldwork and community internships. You'll graduate prepared for positions across many diverse fields. Our graduates enter professional schools in law, medicine and business, take graduate degrees in the humanities and social science, and pursue careers in health, counseling, teaching, and public advocacy. Recent graduates have gone on to positions in government, media outlets, LGBTQ centers, advertising firms and crisis centers. Whatever your professional interests, we'll help you get there. 
 
 
 ## Make Your Declaration
