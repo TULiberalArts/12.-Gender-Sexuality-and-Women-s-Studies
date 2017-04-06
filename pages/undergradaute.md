@@ -7,7 +7,7 @@ published: true
 
 ## Unmatched Support
 
-Gender, Sexuality and Women’s Studies is a small, close-knit program where students receive individual attention from our faculty. We support a student organization and student newsletter aimed at making our students' voices heard. Our goal is to help our students become leaders while following their unique passions and interests. The program also hosts many on-campus events in collaborations with other programs at Temple.
+Gender, Sexuality and Women’s Studies is a small, close-knit program where students receive individual attention from faculty. We support a student organization and student newsletter aimed at making our students' voices heard. Our goal is to help our students become leaders while following their unique passions and interests. The program also hosts many on-campus events in collaborations with other programs at Temple.
 
 ## An Honest Approach
 
