@@ -7,7 +7,7 @@ published: true
 
 ## Links of Interest
 
-- [Inside Out Center](http://insideoutcenter.org/)
+- [Inside-Out Center](http://insideoutcenter.org/)
 - [The Feminist Wire](http://thefeministwire.com/)
 - [Women's Policy, Inc.](http://www.womenspolicy.org/)
 - [National Women's Studies Association](http://www.nwsa.org/)
