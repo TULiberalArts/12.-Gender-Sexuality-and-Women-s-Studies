@@ -10,9 +10,9 @@ feature-body: >
   identities and the consequences these intersections have in people’s lives.
   Our courses range from foundations in Gender, Sexuality and Women’s Studies to
   gender violence to LGBTQ activism and theory. As an interdisciplinary program
-  housed in the College of Liberal Arts, we take into account social, historical
-  and cultural variables in the study of women, gender as an analytical
-  category, and the and cultural functioning of sexuality.
+  housed in the College of Liberal Arts, we explore the many variables that
+  contribute to women's experience as a social group, gender as an analytical
+  category, and the social, political and cultural functioning of sexuality.
 feature-image: media/hero_bg.png
 published: true
 ---
