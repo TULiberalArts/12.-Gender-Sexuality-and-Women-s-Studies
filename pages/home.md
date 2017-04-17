@@ -5,14 +5,15 @@ layout: home
 feature: true
 feature-title: Our Program
 feature-body: >
-  The Gender, Sexuality and Women's Studies program welcomes students interested
-  in an intersectional approach to gender, sexuality, race and other key
-  identities and the consequences these intersections have in people’s lives.
-  Our courses range from foundations in Gender, Sexuality and Women’s Studies to
-  gender violence to LGBTQ activism and theory. As an interdisciplinary program
-  housed in the College of Liberal Arts, we explore the many variables that
-  contribute to women's experience as a social group, gender as an analytical
-  category, and the social, political and cultural functioning of sexuality.
+  The Gender, Sexuality, and Women's Studies program welcomes students
+  interested in an intersectional approach to gender, sexuality, race and other
+  key identities and the consequences these intersections have in people’s
+  lives. Our courses range from foundations in Gender, Sexuality, and Women’s
+  Studies to gender violence to LGBTQ activism and theory. As an
+  interdisciplinary program housed in the College of Liberal Arts, we explore
+  the many variables that contribute to women's experience as a social group,
+  gender as an analytical category, and the social, political and cultural
+  functioning of sexuality.
 feature-image: media/hero_bg.png
 published: true
 ---
