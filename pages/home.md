@@ -31,7 +31,7 @@ Above all else, we listen to what you want to learn about. Our students work ind
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
       title="Certificate for Non-Liberal Arts Students"
-      content="Learn more about our certificate for all students interested in the field of Gender and Women's Studies."
+      content="Learn more about our certificate for all students interested in the field of Gender, Sexuality and Women's Studies."
       image=""
       button-link="http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/certificate-gender-sexuality-womens-studies/"
       button-text="Learn More" %}
