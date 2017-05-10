@@ -13,13 +13,15 @@ Gender, Sexuality, and Women’s Studies is a small, close-knit program where st
 
 The Gender, Sexuality, and Women’s Studies program provides students with sensitivity of mind and a freedom of thought to think about issues pertaining to gender, race, sexuality, class, age, disability, nationality and other pertinent issues. We encourage and challenge our students to make connections and come to a deeper understanding of the world around them.
 
-## Gender, Sexuality and Women's Studies Certificate of Specialization
-
-The Certificate of Specialization is designed for students outside the College of Liberal Arts who want to pursue a Gender, Sexuality, and Women's Studies-oriented career. Four courses are required for the certificate: Intro to Women's Studies (1096), Field Work (4389), and 2 electives, at least one of which must be at the upper level.
-
 ## Academic Offerings
 
 - [BA in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/ba-gender-sexuality-womens-studies/)
 - [Minor in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-gender-sexuality-womens-studies/)
 - [Minor in LGBT Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/lesbian-gay-bisexual-transgender-lgbt-minor/#text)
 - [Undergraduate Certificate in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/certificate-gender-sexuality-womens-studies/)
+
+### Gender, Sexuality and Women's Studies Certificate of Specialization
+
+The Certificate of Specialization is designed for students outside the College of Liberal Arts who want to pursue a Gender, Sexuality, and Women's Studies-oriented career. Four courses are required for the certificate: Intro to Women's Studies (1096), Field Work (4389), and 2 electives, at least one of which must be at the upper level.
+
+
