@@ -8,7 +8,6 @@ published: true
 
 ### Director:
 Judith Levine<br/> 
-Department of Sociology<br/>
 811 Anderson Hall<br/>
 [(215) 204-7963](tel:2152047963)<br/>
 [jlevine@temple.edu](mailto:jlevine@temple.edu)<br/>
@@ -19,9 +18,15 @@ Stephanie Morawski<br/>
 [(215) 204-8516](tel:2152048516)<br/>
 [morawski@temple.edu](mailto:morawski@temple.edu)<br/>
 
+### Undergraduate Advisor:
+Rujuta Chincholkar-Mandelia<br/>
+816 Anderson Hall<br/>
+(215) 204-6953<br/>
+[rujuta@temple.edu](mailto:rujuta@temple.edu)<br/>
+
 ## Student Awards
 
-The Gender, Sexuality, and Women’s Studies Program has four annual undergraduate awards that honor academic and creative excellence in our students. The awards are acknowledged and celebrated by an annual formal award dinner sponsored by the College of Liberal Arts for all undergraduate awards granted by departments in the liberal arts. Students invite faculty members to join them in their celebration, as well as family and friends. The event fosters the appreciation of both undergraduate academic achievement and mentor/student relationships.
+The Gender, Sexuality, and Women’s Studies Program has four annual undergraduate awards that honor academic and creative excellence in our students. The awards are acknowledged and celebrated by an annual formal award ceremony sponsored by the College of Liberal Arts for all undergraduate awards granted by departments in the liberal arts. Students invite faculty members to join them in their celebration, as well as family and friends. The event fosters the appreciation of both undergraduate academic achievement and mentor/student relationships.
 
 **Barbara Brownstein Prize in Gender, Sexuality, and Women's Studies**
 
