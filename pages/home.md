@@ -25,7 +25,7 @@ Above all else, we listen to what you want to learn about. Our students work ind
     title="LGBTQ Engagement Opportunities"
     content="Connect to LGBTQ programs and resources right here on campus."
     image=""
-    button-link="http://wellness.temple.edu/gender-and-sexuality-inclusiveness"
+    button-link="http://wellness.temple.edu/lgbtqia-initiatives-and-programs"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
