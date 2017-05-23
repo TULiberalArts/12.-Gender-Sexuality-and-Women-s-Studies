@@ -11,6 +11,10 @@ A Graduate Certificate in Women's Studies can be earned at Temple in conjunction
 
 Graduate students whose work is focused on gender will be able to explore central concepts of feminist theory and analysis through Gender, Sexuality, and Women's Studies graduate courses.
 
+For more information or to apply, contact Stephanie Morawski:<br />
+[(215) 204-8516](tel:2152048516)<br/>
+[morawski@temple.edu](mailto:morawski@temple.edu)<br/>
+
 ## Requirements
 
 Each student must complete 6 semester hours of course work in the Gender, Sexuality, and Women's Studies Program:
