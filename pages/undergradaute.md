@@ -19,6 +19,8 @@ The Gender, Sexuality, and Women’s Studies program provides students with sens
 - [Minor in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-gender-sexuality-womens-studies/)
 - [Minor in LGBT Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/lesbian-gay-bisexual-transgender-lgbt-minor/#text)
 - [Undergraduate Certificate in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/certificate-gender-sexuality-womens-studies/)
+- [Gender, Sexuality and Women’s Studies (B.A.) + Adult & Organizational Development (M.Ed.)](http://education.temple.edu/aod/gender-sexuality-and-women%E2%80%99s-studies-ba-adult-organizational-development-med)
+- [Gender, Sexuality and Women’s Studies (BA) + Urban Education (M.Ed.)](http://education.temple.edu/urbaned/gender-sexuality-and-women%E2%80%99s-studies-ba-and-urban-education-med)
 
 ### Gender, Sexuality and Women's Studies Certificate of Specialization
 
