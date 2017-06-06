@@ -9,7 +9,7 @@ Gender, Sexuality & Women's Studies is statically generated with [Jekyll](https:
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/gender-sexuality-and-womens-studies/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/gender-sexuality-and-womens-studies/ |
 
 | Directory |  |
 | --- | --- |
