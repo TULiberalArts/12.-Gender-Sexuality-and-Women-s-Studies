@@ -29,7 +29,7 @@ In addition, students take at least 6 semester hours in approved courses that fo
 
 If the certificate is to be obtained in conjunction with a master's or doctoral degree, students already admitted to a cooperating Temple University graduate program will be accepted to the Women's Studies Certificate Program on the basis of an internal application and graduate transcripts.
 
-[Letter of Application]({{ '/docs/gradtemapp.pdf' | prepend: site.baseurl }}) for students enrolled at Temple.
+[Letter of Application](http://www.cla.temple.edu/gender-sexuality-and-womens-studies/docs/gradtemapp.pdf) for students enrolled at Temple.
 
 Students not enrolled in a Temple University graduate degree program who are applying for the freestanding certificate must submit the following:
 
