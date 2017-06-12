@@ -1,5 +1,6 @@
 ---
 title: Research
+meta-keywords: Women's Studies Consortium, undergraduate students
 permalink: /research/
 layout: page
 published: true
