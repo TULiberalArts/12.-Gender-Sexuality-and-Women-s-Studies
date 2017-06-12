@@ -1,6 +1,6 @@
 ---
 title: Undergraduate
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: sexuality, gender, bachelors degree, students
 permalink: /undergraduate/
 layout: page
 published: true
