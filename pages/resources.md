@@ -1,6 +1,6 @@
 ---
 title: Resources
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: gender and sexuality, awards, resources
 permalink: /resources/
 layout: page
 published: true
