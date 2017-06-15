@@ -4,6 +4,33 @@ meta-keywords: sexuality, gender, bachelors degree, students
 permalink: /undergraduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Director:** <br/>
+  Judith Levine<br/> 
+  811 Anderson Hall<br/>
+  [(215) 204-7963](tel:2152047963)<br/>
+  [jlevine@temple.edu](mailto:jlevine@temple.edu)<br/>
+
+  <hr>
+
+  **Undergraduate Advisor:** <br/>
+  Rujuta Chincholkar-Mandelia<br/>
+  816 Anderson Hall<br/>
+  [(215) 204-6953](tel:2152046953)<br/>
+  [rujuta@temple.edu](mailto:rujuta@temple.edu)<br/>
+
+  <hr>
+
+  **Administrator:** <br/>
+  Michelle Pugliese <br/>
+  429 Anderson Hall <br/>
+  [(215) 204-5628](tel:2152045628) <br/>
+  [pugliese@temple.edu](mailto:pugliese@temple.edu) <br/>
 ---
 
 ## Unmatched Support
