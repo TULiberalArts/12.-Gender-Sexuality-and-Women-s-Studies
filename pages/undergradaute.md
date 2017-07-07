@@ -25,7 +25,7 @@ sidebar-content: > #
    **Administrator:**  
    Stephanie Morawski  
    1041 Anderson Hall    
-   [(215) : 215-204-8516](tel:2152048516)  
+   [(215) 215-204-8516](tel:2152048516)  
    [morawski@temple.edu](mailto:morawski@temple.edu)  
 ---
 
