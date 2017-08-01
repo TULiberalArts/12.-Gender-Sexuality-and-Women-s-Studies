@@ -37,7 +37,7 @@ Gender, Sexuality, and Women’s Studies is a small, close-knit program where st
 
 The Gender, Sexuality, and Women’s Studies program provides students with sensitivity of mind and a freedom of thought to think about issues pertaining to gender, race, sexuality, class, age, disability, nationality and other pertinent issues. We encourage and challenge our students to make connections and come to a deeper understanding of the world around them.
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic Offerings
 
