@@ -1,6 +1,9 @@
 ---
 title: Home
-meta-description: The Gender, Sexuality, and Women's Studies program welcomes students interested in an intersectional approach to gender, sexuality, race and other key identities and the consequences these intersections have in people’s lives.
+meta-description: >-
+  Students interested in an intersectional approach to gender, sexuality, race
+  and other key identities and the consequences these intersections have in
+  people’s lives.
 meta-keywords: 'gender, students, sexuality'
 permalink: /
 layout: home
