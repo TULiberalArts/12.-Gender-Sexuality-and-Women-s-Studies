@@ -1,11 +1,11 @@
 ---
 title: Graduate
-meta-keywords: graduate studies, women, gender, sexuality
+meta-keywords: 'graduate studies, women, gender, sexuality'
 permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Director:**  
    Judith Levine  
    811 Anderson Hall  
@@ -27,6 +27,7 @@ sidebar-content: > #
    1041 Anderson Hall    
    [(215) 215-204-8516](tel:2152048516)  
    [morawski@temple.edu](mailto:morawski@temple.edu)  
+meta-description: "We offer a graduate certificate that can be earned in conjunction with masters or doctoral   \t  \twork in a wide variety of subjects."
 ---
 
 ## Graduate Certificate Program
