@@ -27,6 +27,10 @@ sidebar-content: |
    1041 Anderson Hall    
    [(215) 215-204-8516](tel:2152048516)  
    [morawski@temple.edu](mailto:morawski@temple.edu)
+meta-description: >-
+  Students interested in an intersectional approach to gender, sexuality, race
+  and other key identities and the consequences these intersections have in
+  people’s lives.
 ---
 
 ## Unmatched Support
