@@ -1,8 +1,9 @@
 ---
 title: Graduate
-meta-keywords: 'graduate studies, women, gender, sexuality'
 permalink: /graduate/
 layout: page
+keywords: 'graduate studies, women, gender, sexuality'
+description: >-
 published: true
 sidebar: true
 sidebar-content: |
