@@ -1,10 +1,11 @@
 ---
 title: Resources
-meta-keywords: 'gender and sexuality, awards, resources'
 permalink: /resources/
 layout: page
+keywords: 'gender and sexuality, awards, resources'
+description: >- 
+ "The Gender, Sexuality, and Women’s Studies Program has four annual undergraduate awards that honor academic and creative excellence     in our students."
 published: true
-meta-description: "The Gender, Sexuality, and Women’s Studies Program has four annual undergraduate awards that \t  \thonor academic and creative excellence in our students."
 ---
 
 ## Student Awards
