@@ -2,9 +2,10 @@
 title: Faculty
 permalink: /faculty/
 layout: faculty2
-published: true
+keywords: ''
 meta-description: >-
   Our faculty come from a range of departments — from English to political
   science to sociology — to provide you with a well-rounded, interdisciplinary
-  education.
+  education. 
+published: true
 ---
