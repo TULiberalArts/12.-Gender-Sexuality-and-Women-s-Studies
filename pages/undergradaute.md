@@ -1,8 +1,9 @@
 ---
 title: Undergraduate
-meta-keywords: 'sexuality, gender, bachelors degree, students'
 permalink: /undergraduate/
 layout: page
+keywords: 'sexuality, gender, bachelors degree, students'
+description: >-
 published: true
 sidebar: true
 sidebar-content: |
