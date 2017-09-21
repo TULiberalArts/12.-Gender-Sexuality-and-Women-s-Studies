@@ -1,10 +1,11 @@
 ---
 title: Next Stops
-meta-keywords: 'transfer, apply, visit, College of Liberal Arts'
 permalink: /next-stops/
 layout: page
+keywords: 'transfer, apply, visit, College of Liberal Arts'
+description: >-
+  "Our students learn about issues not only intellectually but also actively, through fieldwork and community internships. They graduate prepared for positions across many diverse fields."
 published: true
-meta-description: "Our students learn about issues not only intellectually but also actively, through fieldwork    \tand community internships. They graduate prepared for positions across many diverse fields."
 ---
 
 ## Next Stops
