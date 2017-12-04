@@ -3,7 +3,6 @@ title: Graduate
 permalink: /graduate/
 layout: page
 keywords: 'graduate studies, women, gender, sexuality'
-description: >-
 published: true
 sidebar: true
 sidebar-content: |
@@ -54,11 +53,4 @@ In addition, students take at least 6 semester hours in approved courses that fo
 
 If the certificate is to be obtained in conjunction with a master's or doctoral degree, students already admitted to a cooperating Temple University graduate program will be accepted to the Women's Studies Certificate Program on the basis of an internal application and graduate transcripts.
 
-[Letter of Application](http://www.cla.temple.edu/gender-sexuality-and-womens-studies/docs/gradtemapp.pdf) for students enrolled at Temple.
-
-Students not enrolled in a Temple University graduate degree program who are applying for the freestanding certificate must submit the following:
-
-- A completed external application form, which may be also obtained as a hard copy from the Gender, Sexuality, and Women's Studies Program in 811 Anderson Hall;
-- An official transcript of all previous college work, showing a baccalaureate degree from an accredited university and an undergradute GPA of at least 3.0 (on a four-point scale);
-- Two letters of recommendation from persons in a position to evaluate the applicant's academic ability and accomplishments;
-- A personal statement indicating interests, plans and objectives within the field of Gender, Sexuality, and Women's Studies.
+Please visit the [Gender, Sexuality & Women's Studies Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/gender-sexuality-and-womens-studies) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
