@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: home3
 meta-description: >-
   Students interested in an intersectional approach to gender, sexuality, race
   and other key identities and the consequences these intersections have in
