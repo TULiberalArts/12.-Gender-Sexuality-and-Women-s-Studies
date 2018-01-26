@@ -3,6 +3,9 @@ title: Graduate
 permalink: /graduate/
 layout: page
 keywords: 'graduate studies, women, gender, sexuality'
+description: >- 
+ We offer a graduate certificate that can be earned in conjunction with 
+ masters or doctoral work in a wide variety of subjects.
 published: true
 sidebar: true
 sidebar-content: |
@@ -23,11 +26,10 @@ sidebar-content: |
    ___
    
    **Administrator:**  
-   Stephanie Morawski  
-   1041 Anderson Hall    
-   [(215) 215-204-8516](tel:2152048516)  
-   [morawski@temple.edu](mailto:morawski@temple.edu)  
-meta-description: "We offer a graduate certificate that can be earned in conjunction with masters or doctoral   \t  \twork in a wide variety of subjects."
+   Stephanie Morawski</br>  
+   1041 Anderson Hall</br>     
+   [(215) 215-204-8516](tel:2152048516)</br>   
+   [morawski@temple.edu](mailto:morawski@temple.edu)</br>   
 ---
 
 ## Graduate Certificate Program
