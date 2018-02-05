@@ -57,8 +57,9 @@ university:
 college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
-program_news: https://liberalarts.temple.edu/news/gender-sexuality-and-womens-studies
-program_events: https://events.temple.edu/department/gender-sexuality-and-womens-studies 
+program_news: 
+https://liberalarts.temple.edu/news/gender-sexuality-and-women-s-studies
+program_events: https://events.temple.edu/department/gender-sexuality-and-womens-studies
 
 
 # Google Tag Manager OR Google Analytics
