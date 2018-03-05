@@ -23,6 +23,16 @@ feature-body: >
 published: true
 ---
 Above all else, we listen to what you want to learn about. Our students work independently as well as in groups, join student organizations and land internships throughout the region in various industries. Many of our courses are cross-listed with other courses, which makes it easier for students to graduate on time.
+
+## Academic Offerings
+
+- [BA in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/ba-gender-sexuality-womens-studies/)
+- [Minor in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-gender-sexuality-womens-studies/)
+- [Minor in LGBT Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/lesbian-gay-bisexual-transgender-lgbt-minor/#text)
+- [Undergraduate Certificate in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/certificate-gender-sexuality-womens-studies/)
+- 4+1 Program: [BA in GSWS + MA in Sociology](https://sites.temple.edu/gswssoc/)
+- 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + Adult & Organizational Development (M.Ed.)](http://education.temple.edu/aod/gender-sexuality-and-women%E2%80%99s-studies-ba-adult-organizational-development-med)
+- 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (BA) + Urban Education (M.Ed.)](http://education.temple.edu/urbaned/gender-sexuality-and-women%E2%80%99s-studies-ba-and-urban-education-med)
 <br />
 <br />
 <div class="row row-wide">
