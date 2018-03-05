@@ -33,8 +33,7 @@ Above all else, we listen to what you want to learn about. Our students work ind
 - 4+1 Program: [BA in GSWS + MA in Sociology](https://sites.temple.edu/gswssoc/)
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + Adult & Organizational Development (M.Ed.)](http://education.temple.edu/aod/gender-sexuality-and-women%E2%80%99s-studies-ba-adult-organizational-development-med)
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (BA) + Urban Education (M.Ed.)](http://education.temple.edu/urbaned/gender-sexuality-and-women%E2%80%99s-studies-ba-and-urban-education-med)
-<br />
-<br />
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="LGBTQ Engagement Opportunities"
