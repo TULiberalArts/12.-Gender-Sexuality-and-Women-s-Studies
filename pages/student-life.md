@@ -2,7 +2,7 @@
 title: Student Life
 permalink: /student-life/
 layout: page
-keywords: 'gender and sexuality, awards, resources'
+keywords: 'gender and sexuality, awards, student life'
 description: >- 
  "The Gender, Sexuality, and Women’s Studies Program has four annual undergraduate awards that honor academic and creative excellence     in our students."
 published: true
