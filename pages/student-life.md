@@ -1,6 +1,6 @@
 ---
-title: Resources
-permalink: /resources/
+title: Student Life
+permalink: /student-life/
 layout: page
 keywords: 'gender and sexuality, awards, resources'
 description: >- 
