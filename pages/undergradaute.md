@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: 'sexuality, gender, bachelors degree, students'
+keywords: 'sexuality, gender, bachelors degree, jewish womens studies certificate'
 description: >-
 published: true
 sidebar: true
