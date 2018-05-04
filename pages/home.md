@@ -2,11 +2,11 @@
 title: Home
 permalink: /
 layout: home3
-meta-description: >-
+description: >-
   Students interested in an intersectional approach to gender, sexuality, race
   and other key identities and the consequences these intersections have in
   people’s lives.
-keywords: 'gender, students, sexuality'
+keywords: 'gender, sexuality, academic offerings, BA, minor, certificate, accelerated degree'
 feature: true
 feature-title: Our Program
 feature-image: media/hero_bg.png
