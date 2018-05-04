@@ -2,7 +2,7 @@
 title: Graduate
 permalink: /graduate/
 layout: page
-keywords: 'graduate studies, women, gender, sexuality'
+keywords: 'graduate studies, women, gender, sexuality, admissions, requirements'
 description: >- 
  We offer a graduate certificate that can be earned in conjunction with 
  masters or doctoral work in a wide variety of subjects.
