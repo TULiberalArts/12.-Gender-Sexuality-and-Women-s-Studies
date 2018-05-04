@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 layout: page
-keywords: 'Women's Studies Consortium, undergraduate students, scholars'
+keywords: 'Womens Studies Consortium, undergraduate students, scholars'
 description: >- 
   "In addition to the lectures, forums and workshops sponsored by the Gender, Sexuality, and Women’s Studies Program, the program plays a   key role in the Greater Philadelphia Women’s Studies Consortium."
   published: true
