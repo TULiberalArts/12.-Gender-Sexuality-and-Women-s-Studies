@@ -31,6 +31,7 @@ sidebar-content: |
    [(215) 215-204-8516](tel:2152048516)</br>   
    [morawski@temple.edu](mailto:morawski@temple.edu)</br>   
 ---
+Continue your education with a graduate-level [women’s studies certificate](#graduate-certificate-program) at the College of Liberal Arts. Need more information before getting started? View the [requirements](#requirements) and [admissions info](#admissions) below.
 
 ## Graduate Certificate Program
 A Graduate Certificate in Women's Studies can be earned at Temple in conjunction with master's or doctoral work in a wide variety of subjects. The certificate can also be earned through a freestanding course of study not linked to a graduate degree. Graduate students whose work is focused on gender will be able to explore central concepts of feminist theory and analysis through Gender, Sexuality, and Women's Studies graduate courses.
