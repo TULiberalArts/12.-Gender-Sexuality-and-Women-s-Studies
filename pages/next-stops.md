@@ -7,10 +7,10 @@ description: >-
   "Our students learn about issues not only intellectually but also actively, through fieldwork and community internships. They graduate prepared for positions across many diverse fields."
 published: true
 ---
+A gender, sexuality and women’s studies degree or certificate will help you launch a [career](#careers-and-beyond) by showing you how to look beyond basic understandings of everyday issues and seeing them from new perspectives. [Make your declaration](#make-your-declaration) at the College of Liberal Arts after [visiting us](#visit-us) and [applying](#apply). Looking for more info? Take a look at our [admissions deadlines](#deadlines) and your opportunities for[transferring](#thinking-of-transferring).
 
 ## Careers and Beyond
 Our students learn about issues not only intellectually but also actively, through fieldwork and community internships. You'll graduate prepared for positions across many diverse fields. Our graduates enter professional schools in law, medicine and business, take graduate degrees in the humanities and social science, and pursue careers in health, counseling, teaching, and public advocacy. Recent graduates have gone on to positions in government, media outlets, LGBTQ centers, advertising firms and crisis centers. Whatever your professional interests, we'll help you get there. 
-
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts. 
