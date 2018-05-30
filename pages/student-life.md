@@ -1,11 +1,14 @@
 ---
-title: Student Life
+# global predefined variables
+layout: tla_page
 permalink: /student-life/
-layout: page
-keywords: 'gender and sexuality, awards, student life'
-description: >- 
- "The Gender, Sexuality, and Women’s Studies Program has four annual undergraduate awards that honor academic and creative excellence     in our students."
 published: true
+# meta-data variables
+title: Student Life
+keywords: 'gender and sexuality, awards, student life'
+description: >-
+ "The Gender, Sexuality, and Women’s Studies Program has four annual undergraduate awards that honor academic and creative excellence     in our students."
+# custom variables
 ---
 
 ## Student Awards

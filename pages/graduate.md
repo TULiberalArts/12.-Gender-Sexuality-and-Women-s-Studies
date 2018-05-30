@@ -1,12 +1,15 @@
 ---
-title: Graduate
-permalink: /graduate/
+# global predefined variables
 layout: page
-keywords: 'graduate studies, women, gender, sexuality, admissions, requirements'
-description: >- 
- We offer a graduate certificate that can be earned in conjunction with 
- masters or doctoral work in a wide variety of subjects.
+permalink: /graduate/
 published: true
+# meta-data variables
+title: Graduate
+keywords: 'graduate studies, women, gender, sexuality, admissions, requirements'
+description: >-
+ We offer a graduate certificate that can be earned in conjunction with
+ masters or doctoral work in a wide variety of subjects.
+# custom variables
 sidebar: true
 sidebar-content: |
   **Director:**  

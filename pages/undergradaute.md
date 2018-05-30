@@ -1,10 +1,13 @@
 ---
-title: Undergraduate
-permalink: /undergraduate/
+# global predefined variables
 layout: page
+permalink: /undergraduate/
+published: true
+# meta-data variables
+title: Undergraduate
 keywords: 'sexuality, gender, bachelors degree, jewish womens studies certificate'
 description: >-
-published: true
+# custom variables
 sidebar: true
 sidebar-content: |
   **Director:**  

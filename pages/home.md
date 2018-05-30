@@ -1,12 +1,17 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home3
+published: true
+# meta-data variables
+title: Home
 description: >-
   Students interested in an intersectional approach to gender, sexuality, race
   and other key identities and the consequences these intersections have in
   people’s lives.
-keywords: 'gender, sexuality, academic offerings, BA, minor, certificate, accelerated degree'
+keywords: 'gender, sexuality, academic offerings, BA, minor, certificate,
+accelerated degree'
+# custom variables
 feature: true
 feature-title: Our Program
 feature-image: media/hero_bg.png
@@ -20,7 +25,6 @@ feature-body: >
   the many variables that contribute to women's experience as a social group,
   gender as an analytical category, and the social, political and cultural
   functioning of sexuality.
-published: true
 ---
 Above all else, we listen to what you want to learn about. Our students work independently as well as in groups, join student organizations and land internships throughout the region in various industries. Many of our courses are cross-listed with other courses, which makes it easier for students to graduate on time.
 
