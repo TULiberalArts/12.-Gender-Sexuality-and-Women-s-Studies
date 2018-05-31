@@ -7,6 +7,9 @@ published: true
 title: Undergraduate
 keywords: 'sexuality, gender, bachelors degree, jewish womens studies certificate'
 description: >-
+  Students interested in an intersectional approach to gender, sexuality, race
+  and other key identities and the consequences these intersections have in
+  people’s lives.
 # custom variables
 sidebar: true
 sidebar-content: |
@@ -31,10 +34,6 @@ sidebar-content: |
    1041 Anderson Hall    
    [(215) 215-204-8516](tel:2152048516)  
    [morawski@temple.edu](mailto:morawski@temple.edu)
-meta-description: >-
-  Students interested in an intersectional approach to gender, sexuality, race
-  and other key identities and the consequences these intersections have in
-  people’s lives.
 ---
 The College of Liberal Arts’ Gender, Sexuality and Women’s Studies degree offers unmatched support and an honest approach to your education. And if you want to further your education on these important issues without earning a full degree, either our gender, sexuality and women’s studies [certificate](#gender-sexuality-and-womens-studies-certificate-of-specialization) or [Jewish women’s studies certificate](#jewish-womens-studies-certificate) could be the perfect option for you.
 
