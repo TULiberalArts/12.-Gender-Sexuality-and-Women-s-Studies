@@ -5,9 +5,10 @@ permalink: /student-life/
 published: true
 # meta-data variables
 title: Student Life
-keywords: 'gender and sexuality, awards, student life'
 description: >-
- "The Gender, Sexuality, and Women’s Studies Program has four annual undergraduate awards that honor academic and creative excellence     in our students."
+ "The Gender, Sexuality, and Women’s Studies Program has four annual undergraduate
+  awards that honor academic and creative excellence in our students."
+keywords: 'gender and sexuality, awards, student life'
 # custom variables
 ---
 
