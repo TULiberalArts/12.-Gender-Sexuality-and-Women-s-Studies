@@ -5,34 +5,13 @@ permalink: /graduate/
 published: true
 # meta-data variables
 title: Graduate
-keywords: 'graduate studies, women, gender, sexuality, admissions, requirements'
 description: >-
  We offer a graduate certificate that can be earned in conjunction with
  masters or doctoral work in a wide variety of subjects.
+keywords: 'graduate studies, women, gender, sexuality, admissions, requirements'
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Director:**  
-   Judith Levine  
-   811 Anderson Hall  
-   [(215) 204-7963](tel:2152047963)  
-   [jlevine@temple.edu](mailto:jlevine@temple.edu)  
-   
-   ___
-   
-   **Undegraduate Advisor:**  
-   Rujuta Chincholkar-Mandelia  
-   816 Anderson Hall  
-   [(215) 204-6953](tel:2152046953)  
-   [rujuta@temple.edu](mailto:rujuta@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Stephanie Morawski</br>  
-   1041 Anderson Hall</br>     
-   [(215) 215-204-8516](tel:2152048516)</br>   
-   [morawski@temple.edu](mailto:morawski@temple.edu)</br>   
+sidebar_content: sidebars/graduate.html   
 ---
 Continue your education with a graduate-level [women’s studies certificate](#graduate-certificate-program) at the College of Liberal Arts. Need more information before getting started? View the [requirements](#requirements) and [admissions info](#admissions) below.
 
