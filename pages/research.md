@@ -5,9 +5,9 @@ permalink: /research/
 published: true
 # meta-data variables
 title: Research
-keywords: 'Womens Studies Consortium, undergraduate students, scholars'
 description: >-
-  "In addition to the lectures, forums and workshops sponsored by the Gender, Sexuality, and Women’s Studies Program, the program plays a   key role in the Greater Philadelphia Women’s Studies Consortium."
+  "In addition to the lectures, forums and workshops sponsored by the Gender, Sexuality, and Women’s Studies Program, the program plays a key role in the Greater Philadelphia Women’s Studies Consortium."
+  keywords: 'Womens Studies Consortium, undergraduate students, scholars'
 # custom variables
 ---
 ## Greater Philadelphia Women's Studies Consortium
