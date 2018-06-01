@@ -1,39 +1,18 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /undergraduate/
 published: true
 # meta-data variables
 title: Undergraduate
-keywords: 'sexuality, gender, bachelors degree, jewish womens studies certificate'
 description: >-
   Students interested in an intersectional approach to gender, sexuality, race
   and other key identities and the consequences these intersections have in
   people’s lives.
+keywords: 'sexuality, gender, bachelors degree, jewish womens studies certificate'
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Director:**  
-   Judith Levine  
-   811 Anderson Hall  
-   [(215) 204-7963](tel:2152047963)  
-   [jlevine@temple.edu](mailto:jlevine@temple.edu)  
-   
-   ___
-   
-   **Undegraduate Advisor:**  
-   Rujuta Chincholkar-Mandelia  
-   816 Anderson Hall  
-   [(215) 204-6953](tel:2152046953)  
-   [rujuta@temple.edu](mailto:rujuta@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Stephanie Morawski  
-   1041 Anderson Hall    
-   [(215) 215-204-8516](tel:2152048516)  
-   [morawski@temple.edu](mailto:morawski@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 The College of Liberal Arts’ Gender, Sexuality and Women’s Studies degree offers unmatched support and an honest approach to your education. And if you want to further your education on these important issues without earning a full degree, either our gender, sexuality and women’s studies [certificate](#gender-sexuality-and-womens-studies-certificate-of-specialization) or [Jewish women’s studies certificate](#jewish-womens-studies-certificate) could be the perfect option for you.
 
