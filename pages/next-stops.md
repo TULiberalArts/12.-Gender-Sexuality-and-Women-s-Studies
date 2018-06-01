@@ -5,9 +5,10 @@ permalink: /next-stops/
 published: true
 # meta-data variables
 title: Next Stops
-keywords: 'careers, transfer, apply, visit, College of Liberal Arts'
 description: >-
-  "Our students learn about issues not only intellectually but also actively, through fieldwork and community internships. They graduate prepared for positions across many diverse fields."
+ "Our students learn about issues not only intellectually but also actively, through
+  fieldwork and community internships. They graduate prepared for positions across many diverse fields."
+keywords: 'careers, transfer, apply, visit, College of Liberal Arts'
 # custom variables
 ---
 A Gender, Sexuality and Women’s Studies degree or certificate will help you launch a [career](#careers-and-beyond) by showing you how to look beyond basic understandings of everyday issues and seeing them from new perspectives. [Make your declaration](#make-your-declaration) at the College of Liberal Arts after [visiting us](#visit-us) and [applying](#apply). Looking for more info? Take a look at our [admissions deadlines](#deadlines) and your opportunities for[transferring](#thinking-of-transferring).
