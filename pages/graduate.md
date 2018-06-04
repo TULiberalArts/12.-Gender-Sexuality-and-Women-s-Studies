@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
- We offer a graduate certificate that can be earned in conjunction with
- masters or doctoral work in a wide variety of subjects.
+ Complete the Graduate Certificate Program in Gender, Sexuality, and Women’s Studies at Temple University.
+ Learn more about our requirements and admission at the College of Liberal Arts.
 keywords: 'graduate studies, women, gender, sexuality, admissions, requirements'
 # custom variables
 sidebar: true
