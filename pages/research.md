@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Research
 description: >-
-  "In addition to the lectures, forums and workshops sponsored by the Gender, Sexuality, and Women’s Studies Program, the program plays a key role in the Greater Philadelphia Women’s Studies Consortium."
+  Dive into lectures, forums, workshops, and the Greater Philadelphia Women’s Studies Consortium through 
+  Temple University’s Gender, Sexuality, and Women’s Studies program in the College of Liberal Arts.
   keywords: 'Womens Studies Consortium, undergraduate students, scholars'
 # custom variables
 ---
