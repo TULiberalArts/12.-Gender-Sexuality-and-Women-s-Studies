@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
- "The Gender, Sexuality, and Women’s Studies Program has four annual undergraduate
-  awards that honor academic and creative excellence in our students."
+ Four awards are given to students studying Gender, Sexuality, and Women’s Studies at Temple University every year:
+ the Barbara Brownstein Prize, Sonia Sanchez Scholarship, Audre Lorde Prize, and the Certificate of Excellence.
 keywords: 'gender and sexuality, awards, student life'
 # custom variables
 ---
