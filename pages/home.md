@@ -6,9 +6,9 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Students interested in an intersectional approach to gender, sexuality, race
-  and other key identities and the consequences these intersections have in
-  people’s lives.
+  The Gender, Sexuality, and Women’s Studies program explores gender, sexuality, race, and other identities.
+  Housed in the College of Liberal Arts, this is an interdisciplinary program at Temple University. 
+  View our academic offerings and earn a BA, Minor, or Certificate.
 keywords: 'gender, sexuality, academic offerings, BA, minor, certificate,
 accelerated degree'
 # custom variables
