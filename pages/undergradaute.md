@@ -6,9 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Students interested in an intersectional approach to gender, sexuality, race
-  and other key identities and the consequences these intersections have in
-  people’s lives.
+  Earn a major, minor, or certificate of specialization in Gender, Sexuality, and Women’s Studies at Temple University.
+  Other options include a certificate in Jewish Women’s Studies, or a minor in LGBT Studies through the College of Liberal Arts.
 keywords: 'sexuality, gender, bachelors degree, jewish womens studies certificate'
 # custom variables
 sidebar: true
