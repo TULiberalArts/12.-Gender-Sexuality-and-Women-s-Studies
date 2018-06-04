@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
- "Our students learn about issues not only intellectually but also actively, through
-  fieldwork and community internships. They graduate prepared for positions across many diverse fields."
+ Learn more about careers available to you with a degree in Gender, Sexuality, and Women’s Studies from the 
+ College of Liberal Arts at Temple University. Make your declaration, learn about transfer options, visit us, and apply!
 keywords: 'careers, transfer, apply, visit, College of Liberal Arts'
 # custom variables
 ---
