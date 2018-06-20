@@ -5,6 +5,7 @@ title: Gender, Sexuality, and Women's Studies
 baseurl: /gender-sexuality-and-womens-studies
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
 url: https://www.cla.temple.edu/gender-sexuality-and-womens-studies
 
 # Program Information
