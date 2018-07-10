@@ -27,4 +27,4 @@ Established by Sonia Sanchez, Professor of English and Gender, Sexuality, and Wo
 [**Certificate of Excellence**](https://liberalarts.temple.edu/about-us/awards/certificate-excellence-womens-studies)
 The Gender, Sexuality, and Women's Studies Certificate of Excellence is awarded to a student who performs community service as an activist in the health and social work professions, maintains academic excellence, and has been employed during some portion of his/her study at Temple University.
 
-For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships page](https://liberalarts.temple.edu/awards-and-scholarships?field_awards_department_nid=4577&field_awards_academics_class_value=All).
+- For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships page](https://liberalarts.temple.edu/awards-and-scholarships?field_awards_department_nid=4577&field_awards_academics_class_value=All).
