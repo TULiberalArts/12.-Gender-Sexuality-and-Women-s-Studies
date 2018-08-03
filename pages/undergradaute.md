@@ -27,4 +27,4 @@ When you are ready to apply, submit your application online at [admissions.templ
 The Certificate of Specialization is designed for students outside the College of Liberal Arts who want to pursue a Gender, Sexuality, and Women's Studies-oriented career. Four courses are required for the certificate: Intro to Women's Studies (1096), Field Work (4389), and 2 electives, at least one of which must be at the upper level.
 
 ## Jewish Women's Studies Certificate
-Temple also has a specialized [certificate in Jewish Women's Studies](http://www.rrc.edu/kolot/academics/jewish-womens-studies-certificate) that is administered jointly with the Reconstructionist Rabbinical College and Kolot, its Center for Jewish Women's and Gender Studies.
+Temple also has a specialized [certificate in Jewish Women's Studies](https://www.rrc.edu/academics/our-approach-rabbinical-formation) that is administered jointly with the Reconstructionist Rabbinical College and Kolot, its Center for Jewish Women's and Gender Studies.
