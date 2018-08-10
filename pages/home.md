@@ -33,7 +33,7 @@ Above all else, we listen to what you want to learn about. Our students work ind
 - [BA in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/ba-gender-sexuality-womens-studies/)
 - [Minor in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-gender-sexuality-womens-studies/)
 - [Minor in LGBT Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/lesbian-gay-bisexual-transgender-lgbt-minor/#text)
-- [Undergraduate Certificate in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/certificate-gender-sexuality-womens-studies/)
+- [Undergraduate Certificate in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-gender-sexuality-womens-studies/)
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + MA in Sociology](https://liberalarts.temple.edu/ba-gender-sexuality-and-womens-studies-ma)
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + Adult & Organizational Development (M.Ed.)](https://liberalarts.temple.edu/ba-gender-sexuality-and-womens-studies-ma)
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (BA) + Urban Education (M.Ed.)](https://liberalarts.temple.edu/ba-gender-sexuality-and-womens-studies-ma)
@@ -51,7 +51,7 @@ Above all else, we listen to what you want to learn about. Our students work ind
       title="Certificate for Non-Liberal Arts Students"
       content="Learn more about our certificate for all students interested in the field of Gender, Sexuality and Women's Studies."
       image=""
-      button-link="http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/certificate-gender-sexuality-womens-studies/"
+      button-link="http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-gender-sexuality-womens-studies/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
