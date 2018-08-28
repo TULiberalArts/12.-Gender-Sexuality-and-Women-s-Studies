@@ -7,11 +7,13 @@ published: true
 title: Home
 description: >-
   The Gender, Sexuality, and Women’s Studies program explores gender, sexuality, race, and other identities.
-  Housed in the College of Liberal Arts, this is an interdisciplinary program at Temple University. 
+  Housed in the College of Liberal Arts, this is an interdisciplinary program at Temple University.
   View our academic offerings and earn a BA, Minor, or Certificate.
 keywords: 'gender, sexuality, academic offerings, BA, minor, certificate,
 accelerated degree'
 # custom variables
+promotion-table: true
+sidebar: false
 feature: true
 feature-title: Our Program
 feature-image: media/hero_bg.png
