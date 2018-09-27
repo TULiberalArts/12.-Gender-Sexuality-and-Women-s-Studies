@@ -40,6 +40,8 @@ Above all else, we listen to what you want to learn about. Our students work ind
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + Adult & Organizational Development (M.Ed.)](https://liberalarts.temple.edu/ba-gender-sexuality-and-womens-studies-ma)
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (BA) + Urban Education (M.Ed.)](https://liberalarts.temple.edu/ba-gender-sexuality-and-womens-studies-ma)
 
+___
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="LGBTQ Engagement Opportunities"
