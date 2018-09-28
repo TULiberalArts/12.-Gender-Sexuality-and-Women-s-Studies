@@ -10,8 +10,8 @@ description: >-
  Learn more about our requirements and admission at the College of Liberal Arts.
 keywords: 'graduate studies, women, gender, sexuality, admissions, requirements'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/graduate.html   
+
+sidebar: sidebars/graduate.html   
 ---
 Continue your education with a graduate-level [women’s studies certificate](#graduate-certificate-program) at the College of Liberal Arts. Need more information before getting started? View the [requirements](#requirements) and [admissions info](#admissions) below.
 

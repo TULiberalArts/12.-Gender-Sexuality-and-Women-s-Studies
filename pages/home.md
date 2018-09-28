@@ -13,7 +13,7 @@ keywords: 'gender, sexuality, academic offerings, BA, minor, certificate,
 accelerated degree'
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-title: Our Program
 feature-image: media/hero_bg.png

@@ -10,8 +10,8 @@ description: >-
   Other options include a certificate in Jewish Women’s Studies, or a minor in LGBT Studies through the College of Liberal Arts.
 keywords: 'sexuality, gender, bachelors degree, jewish womens studies certificate'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 The College of Liberal Arts’ Gender, Sexuality and Women’s Studies degree offers unmatched support and an honest approach to your education. And if you want to further your education on these important issues without earning a full degree, either our gender, sexuality and women’s studies [certificate](#gender-sexuality-and-womens-studies-certificate-of-specialization) or [Jewish women’s studies certificate](#jewish-womens-studies-certificate) could be the perfect option for you.
 
