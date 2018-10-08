@@ -21,7 +21,7 @@ A Graduate Certificate in Gender, Sexuality and Women's Studies can be earned at
 ## Admissions
 If the certificate is to be obtained in conjunction with a master's or doctoral degree, students already admitted to a cooperating Temple University graduate program will be accepted to the Gender, Sexuality and Women's Studies Certificate Program on the basis of an internal application and graduate transcripts.
 
-[Application](https://docs.google.com/forms/d/1X91AKXU_kkMfan4n5kJflHmTK2ECClBht3xdVWWyXwc/edit)for students enrolled at Temple.
+[Application] (https://docs.google.com/forms/d/1X91AKXU_kkMfan4n5kJflHmTK2ECClBht3xdVWWyXwc/edit)for students enrolled at Temple.
 
 Students not enrolled in a Temple University graduate degree program who are applying for the freestanding certificate must submit the following:
 
