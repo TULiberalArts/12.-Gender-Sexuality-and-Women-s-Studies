@@ -21,7 +21,7 @@ A Graduate Certificate in Women's Studies can be earned at Temple in conjunction
 ## Admissions
 If the certificate is to be obtained in conjunction with a master's or doctoral degree, students already admitted to a cooperating Temple University graduate program will be accepted to the Women's Studies Certificate Program on the basis of an internal application and graduate transcripts.
 
-[Letter of Application](https://goo.gl/forms/iN7b01RAzcvJgHAy1) (doc.) for students enrolled at Temple.
+[Letter of Application](https://docs.google.com/forms/d/1X91AKXU_kkMfan4n5kJflHmTK2ECClBht3xdVWWyXwc/edit) (doc.) for students enrolled at Temple.
 
 Students not enrolled in a Temple University graduate degree program who are applying for the freestanding certificate must submit the following:
 
