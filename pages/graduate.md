@@ -13,15 +13,15 @@ keywords: 'graduate studies, women, gender, sexuality, admissions, requirements'
 
 sidebar: sidebars/graduate.html   
 ---
-Continue your education with a graduate-level [women’s studies certificate](#graduate-certificate-program) at the College of Liberal Arts. Need more information before getting started? View the [requirements](#requirements) and [admissions info](#admissions) below.
+Continue your education with a graduate certificate in [Gender, Sexuality and Women's Studies](#graduate-certificate-program) at the College of Liberal Arts. Need more information before getting started? View the [requirements](#requirements) and [admissions info](#admissions) below.
 
 ## Graduate Certificate Program
-A Graduate Certificate in Women's Studies can be earned at Temple in conjunction with master's or doctoral work in a wide variety of subjects. The certificate can also be earned through a freestanding course of study not linked to a graduate degree. Graduate students whose work is focused on gender will be able to explore central concepts of feminist theory and analysis through Gender, Sexuality, and Women's Studies graduate courses.
+A graduate Certificate in Gender, Sexuality and Women's Studies can be earned at Temple in conjunction with master's or doctoral work in a wide variety of subjects. The certificate can also be earned through a freestanding course of study not linked to a graduate degree. Graduate students whose work is focused on gender will be able to explore central concepts of feminist theory and analysis through Gender, Sexuality, and Women's Studies graduate courses.
 
 ## Admissions
-If the certificate is to be obtained in conjunction with a master's or doctoral degree, students already admitted to a cooperating Temple University graduate program will be accepted to the Women's Studies Certificate Program on the basis of an internal application and graduate transcripts.
+If the certificate is to be obtained in conjunction with a master's or doctoral degree, students already admitted to a cooperating Temple University graduate program will be accepted to the Gender, Sexuality and Women's Studies Certificate Program on the basis of an internal application and graduate transcripts.
 
-[Letter of Application](https://docs.google.com/forms/d/1X91AKXU_kkMfan4n5kJflHmTK2ECClBht3xdVWWyXwc/edit) (doc.) for students enrolled at Temple.
+[Application](https://docs.google.com/forms/d/1X91AKXU_kkMfan4n5kJflHmTK2ECClBht3xdVWWyXwc/edit) for students enrolled at Temple.
 
 Students not enrolled in a Temple University graduate degree program who are applying for the freestanding certificate must submit the following:
 
@@ -36,7 +36,7 @@ Stephanie Morawski:<br/>
 [morawski@temple.edu](mailto:morawski@temple.edu)<br/>
 
 ## Requirements
-Each student must complete 6 semester hours of course work in the Gender, Sexuality, and Women's Studies Program:
+Each student must complete 6 semester hours of course work in the Gender, Sexuality and Women's Studies Program:
 
 - GSWS 8001: Introduction to Feminist Studies (3 credits)
 - GSWS 9991: Seminar in Feminist Reseach (3 credits)
