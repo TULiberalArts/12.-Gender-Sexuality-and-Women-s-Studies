@@ -22,7 +22,7 @@ feature-body: >
   interested in an intersectional approach to gender, sexuality, race and other
   key identities and the consequences these intersections have in people’s
   lives. Our courses range from foundations in Gender, Sexuality, and Women’s
-  Studies to gender violence to LGBTQ activism and theory. As an
+  Studies to gender violence to LGBTQ activism, literature and theory. As an
   interdisciplinary program housed in the College of Liberal Arts, we explore
   the many variables that contribute to women's experience as a social group,
   gender as an analytical category, and the social, political and cultural
@@ -36,9 +36,10 @@ Above all else, we listen to what you want to learn about. Our students work ind
 - [Minor in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-gender-sexuality-womens-studies/)
 - [Minor in LGBT Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-lesbian-gay-bisexual-transgender-lgbt/)
 - [Undergraduate Certificate in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-gender-sexuality-womens-studies/)
+- Graduate Certificate in Gender, Sexuality and Women's Studies]
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + MA in Sociology](https://liberalarts.temple.edu/ba-gender-sexuality-and-womens-studies-ma)
-- 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + Adult & Organizational Development (M.Ed.)](https://education.temple.edu/node/49403)
-- 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (BA) + Urban Education (M.Ed.)](https://education.temple.edu/node/49793)
+- 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + Adult & Organizational Development (M.Ed.)](https://liberalarts.temple.edu/ba-gender-sexuality-and-womens-studies-ma)
+- 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (BA) + Urban Education (M.Ed.)](https://liberalarts.temple.edu/ba-gender-sexuality-and-womens-studies-ma)
 
 ___
 
