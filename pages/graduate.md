@@ -15,6 +15,9 @@ sidebar: sidebars/graduate.html
 ---
 Continue your education with a graduate certificate in [Gender, Sexuality and Women's Studies](#graduate-certificate-program) at the College of Liberal Arts. Need more information before getting started? View the [requirements](#requirements) and [admissions info](#admissions) below.
 
+## Gender, Sexuality and Women’s Studies Graduate Program
+Factors of gender and sexuality have a multifaceted effect on both individuals and society as a whole. Gender, Sexuality and Women’s Studies graduate program students learn advanced knowledge about feminist concerns throughout history and into contemporary times. By studying literature and culture, graduate students build theoretical knowledge about feminist advocacy, develop analytical skills and gain a stronger understanding of gender identities. These lessons help graduates affect positive societal changes for all genders while increasing their ability to succeed in careers like education, media, politics, counseling and more.
+
 ## Graduate Certificate Program
 A Graduate Certificate in Gender, Sexuality and Women's Studies can be earned at Temple in conjunction with master's or doctoral work in a wide variety of subjects. The certificate can also be earned through a freestanding course of study not linked to a graduate degree. Graduate students whose work is focused on gender will be able to explore central concepts of feminist theory and analysis through Gender, Sexuality, and Women's Studies graduate courses.
 
