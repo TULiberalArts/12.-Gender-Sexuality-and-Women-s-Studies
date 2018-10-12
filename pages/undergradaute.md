@@ -21,9 +21,11 @@ Our goal is to help our students become leaders while following their unique pas
 ## Bachelor of Arts in Gender, Sexuality, and Women's Studies
 Undergraduate Gender, Sexuality, and Women's Studies degree program students are taught to see women’s position in society through new lenses. They’re taught to understand gender influences and to challenge gender constructs in modern society. And a focus on discrimination and inequality empowers them to forward the goal of achieving a more equitable society for all genders. Coursework covers historic, economic, social, cultural and political issues as they relate to women. Students will experience a transformation of these traditional fields of study by exploring them through a feminist framework.
 
-- Learn More About the [Bachelor of Arts in Gender, Sexuality, and Women's Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/ba-gender-sexuality-womens-studies/)
-- Learn More About the [Minor in Gender, Sexuality, and Women's Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-gender-sexuality-womens-studies/)
-- Learn More About the [Minor in Lesbian, Gay, Bisexual & Transgender (LGBT) Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-lesbian-gay-bisexual-transgender-lgbt/)
+Learn More About the [Bachelor of Arts in Gender, Sexuality, and Women's Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/ba-gender-sexuality-womens-studies/)
+
+Learn More About the [Minor in Gender, Sexuality, and Women's Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-gender-sexuality-womens-studies/)
+
+Learn More About the [Minor in Lesbian, Gay, Bisexual & Transgender (LGBT) Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-lesbian-gay-bisexual-transgender-lgbt/)
 
 ## Gender, Sexuality and Women's Studies Certificate of Specialization
 What social, political and cultural functions does sexuality play in society? Gender, Sexuality and Women’s Studies Certificate students gain broadened perspectives on gender and sexuality. Graduates have an enriched understanding of the roles gender and sexuality play in the U.S. and throughout the world.
