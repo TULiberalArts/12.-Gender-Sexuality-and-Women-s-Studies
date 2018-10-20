@@ -31,7 +31,7 @@ Students not enrolled in a Temple University graduate degree program who are app
 - Two letters of recommendation from persons in a position to evaluate the applicant’s academic ability and accomplishments
 - A personal statement indicating interests, plans and objectives within the field of Gender, Sexuality, and Women’s Studies
 
-[Graduate Certificate in Gender, Sexuality and Women's Studies Application](https://docs.google.com/forms/d/e/1FAIpQLSeZNCauCEq-rYfC6-O_T6D6gfnSNBpyR71NT1e7LujMcjBzOg/viewform?usp=sf_link)
+- [Graduate Certificate in Gender, Sexuality and Women's Studies Application](https://docs.google.com/forms/d/e/1FAIpQLSeZNCauCEq-rYfC6-O_T6D6gfnSNBpyR71NT1e7LujMcjBzOg/viewform?usp=sf_link)
 
 For more information or to apply, contact:
 Stephanie Morawski:<br/>
