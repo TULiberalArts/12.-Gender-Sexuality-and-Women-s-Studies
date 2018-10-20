@@ -24,6 +24,8 @@ A Graduate Certificate in Gender, Sexuality and Women's Studies can be earned at
 ## Admissions
 If the certificate is to be obtained in conjunction with a master's or doctoral degree, students already admitted to a cooperating Temple University graduate program will be accepted to the Gender, Sexuality and Women's Studies Certificate Program on the basis of an internal application and graduate transcripts.
 
+https://docs.google.com/forms/d/1X91AKXU_kkMfan4n5kJflHmTK2ECClBht3xdVWWyXwc/edit?usp=sharing
+
 Students not enrolled in a Temple University graduate degree program who are applying for the freestanding certificate must submit the following:
 
 - A completed external application form, which may be also obtained as a hard copy from the Gender, Sexuality, and Women’s Studies Program in 811 Anderson Hall.
@@ -36,8 +38,6 @@ Stephanie Morawski:<br/>
 [(215) 204-8516](tel:2152048516)<br/>
 [morawski@temple.edu](mailto:morawski@temple.edu)<br/>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeZNCauCEq-rYfC6-O_T6D6gfnSNBpyR71NT1e7LujMcjBzOg/viewform?embedded=true" width="640" height="1879" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
 ## Requirements
 Each student must complete 6 semester hours of course work in the Gender, Sexuality, and Women's Studies Program:
 
@@ -45,3 +45,5 @@ Each student must complete 6 semester hours of course work in the Gender, Sexual
 - GSWS 9991: Seminar in Feminist Reseach (3 credits)
 
 In addition, students take at least 6 semester hours in approved courses that focus on gender from their own or any cooperating department and complete a research project. Students working on a Temple graduate degree may satisfy the research requirement by focusing on women or gender in their final project, thesis or dissertation.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeZNCauCEq-rYfC6-O_T6D6gfnSNBpyR71NT1e7LujMcjBzOg/viewform?embedded=true" width="640" height="1879" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
