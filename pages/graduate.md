@@ -33,10 +33,10 @@ Students not enrolled in a Temple University graduate degree program who are app
 
 - [Graduate Certificate in Gender, Sexuality and Women's Studies Application](https://docs.google.com/forms/d/e/1FAIpQLSeZNCauCEq-rYfC6-O_T6D6gfnSNBpyR71NT1e7LujMcjBzOg/viewform?usp=sf_link)
 
-For more information or to apply, contact:
-Stephanie Morawski:<br/>
-[(215) 204-8516](tel:2152048516)<br/>
-[morawski@temple.edu](mailto:morawski@temple.edu)<br/>
+For more information or to apply, contact:<br>
+Stephanie Morawski:<br>
+[(215) 204-8516](tel:2152048516)<br>
+[morawski@temple.edu](mailto:morawski@temple.edu)<br>
 
 ## Requirements
 Each student must complete 6 semester hours of course work in the Gender, Sexuality, and Women's Studies Program:
