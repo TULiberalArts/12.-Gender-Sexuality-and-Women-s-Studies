@@ -13,8 +13,6 @@ keywords: 'graduate studies, women, gender, sexuality, admissions, requirements'
 
 sidebar: sidebars/graduate.html   
 ---
-Continue your education with a graduate certificate in [Gender, Sexuality and Women's Studies](#graduate-certificate-program) at the College of Liberal Arts. Need more information before getting started? View the [requirements](#requirements) and [admissions info](#admissions) below.
-
 ## Gender, Sexuality and Women’s Studies Graduate Program
 Factors of gender and sexuality have a multifaceted effect on both individuals and society as a whole. Gender, Sexuality and Women’s Studies graduate program students learn advanced knowledge about feminist concerns throughout history and into contemporary times. By studying literature and culture, graduate students build theoretical knowledge about feminist advocacy, develop analytical skills and gain a stronger understanding of gender identities. These lessons help graduates affect positive societal changes for all genders while increasing their ability to succeed in careers like education, media, politics, counseling and more.
 
