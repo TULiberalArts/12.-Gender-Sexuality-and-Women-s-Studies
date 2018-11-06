@@ -10,6 +10,6 @@ description: >-
 keywords: 'faculty, gender studies'
 # custom variables
 faculty: profiles/faculty.html
-affiliated: profiles/affiliated.html
+
 ---
 Our faculty come from a range of departments — from English to political science to sociology — to provide you with a well-rounded, interdisciplinary education.
