@@ -21,15 +21,15 @@ Our students benefit from small classes taught by renowned faculty who conduct c
 ## Job Prospects
 Many employers are committed to issues of diversity and inclusion, and are looking for college graduates who are knowledgeable about these issues and invested in their importance. Our undergraduate program prepares students to meet these demands. Our students learn actively through fieldwork and internships connected to their career interests. Our graduates pursue graduate degrees in every field and go on to have careers in business, teaching, healthcare, technology, social work, government, the arts, and much more. Build your resume or portfolio by choosing a major or minor in Gender, Sexuality, and Women's Studies. 
 
-Learn More About the [Bachelor of Arts in Gender, Sexuality, and Women's Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/ba-gender-sexuality-womens-studies/)
+- Learn More About the [Bachelor of Arts in Gender, Sexuality, and Women's Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/ba-gender-sexuality-womens-studies/)
 
-Learn More About the [Minor in Gender, Sexuality, and Women's Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-gender-sexuality-womens-studies/)
+- Learn More About the [Minor in Gender, Sexuality, and Women's Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-gender-sexuality-womens-studies/)
 
-Learn More About the [Minor in Lesbian, Gay, Bisexual & Transgender (LGBT) Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-lesbian-gay-bisexual-transgender-lgbt/)
+- Learn More About the [Minor in Lesbian, Gay, Bisexual & Transgender (LGBT) Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-lesbian-gay-bisexual-transgender-lgbt/)
 
-- Already majoring in another department or program, but interested in GSWS? Add GSWS as a [double major](https://liberalarts.temple.edu/advising/academic-advising/policies-and-procedures).
+Already majoring in another department or program, but interested in GSWS? Add GSWS as a [double major](https://liberalarts.temple.edu/advising/academic-advising/policies-and-procedures).
 
-- Or, earn a [Certificate in Gender, Sexuality, and Women's Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-gender-sexuality-womens-studies/) while simultaneously earning your B.A. in another department or program. 
+Or, earn a [Certificate in Gender, Sexuality, and Women's Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-gender-sexuality-womens-studies/) while simultaneously earning your B.A. in another department or program. 
 
 We also offer the following 4+1 accelerated B.A. + Master’s degree programs:
 
