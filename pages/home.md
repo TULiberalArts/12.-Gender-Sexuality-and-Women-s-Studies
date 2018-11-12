@@ -45,26 +45,26 @@ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
-    title="LGBTQ Engagement Opportunities"
-    content="Connect to LGBTQ programs and resources right here on campus."
+    title="A Degree That Matters."
+    content="Think a Gender, Sexuality and Women’s Studies degree isn’t practical? Think Again."
     image=""
-    button-link="http://wellness.temple.edu/lgbtqia-initiatives-and-programs"
+    button-link="https://www.cla.temple.edu/gender-sexuality-and-womens-studies/next-stops/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="Certificate for Non-Liberal Arts Students"
-      content="Learn more about our certificate for all students interested in the field of Gender, Sexuality and Women's Studies."
+      title="Internships That Make A Difference."
+      content="We connect you to where you want to be."
       image=""
-      button-link="http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-gender-sexuality-womens-studies/"
+      button-link="https://www.cla.temple.edu/gender-sexuality-and-womens-studies/student-life/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="Join Temple's Queer Student Union"
-        content="Learn, explore and network with your peers in this safe space dedicated to support you and your academic career."
+        title="A Vibrant Community"
+        content="That expands your mind and your network."
         image=""
-        button-link="https://temple.collegiatelink.net/organization/Queer_Student_Union"
+        button-link="https://www.cla.temple.edu/gender-sexuality-and-womens-studies/student-life#student-organizations/"
         button-text="Learn More" %}
       </div>
 </div>
