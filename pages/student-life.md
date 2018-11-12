@@ -38,9 +38,9 @@ The Gender, Sexuality, and Women's Studies Certificate of Excellence is awarded 
 
 ## Student Organizations
 Stay connected and get involved with one of our student organizations!
-- Queer Student Union (QSU)
-- Queer People of Color (QPoC)
-- Students for Trans Awareness and Rights (STAR)
+- [Queer Student Union (QSU)](https://diversity.temple.edu/lgbtqia/lgbtqia-organizations)
+- [Queer People of Color (QPoC)](https://diversity.temple.edu/lgbtqia/lgbtqia-organizations)
+- [Students for Trans Awareness and Rights (STAR)](https://diversity.temple.edu/lgbtqia/lgbtqia-organizations)
 
 ## Talks and Events
 We host and co-sponsor talks and events by cutting-edge gender and sexuality scholars, practitioners and activists. Follow us on Twittwer [@templegsws](https://twitter.com/templegsws) and [@templeLGBT](https://twitter.com/hashtag/TempleLGBT) to stay in the loop about our speaker series and other GSWS-related events. 
