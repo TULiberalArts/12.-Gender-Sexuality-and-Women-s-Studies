@@ -44,12 +44,3 @@ Stay connected and get involved with one of our student organizations!
 
 ## Talks and Events
 We host and co-sponsor talks and events by cutting-edge gender and sexuality scholars, practitioners and activists. Follow us on Twittwer [@templegsws](https://twitter.com/templegsws) and [@templeLGBT](https://twitter.com/hashtag/TempleLGBT) to stay in the loop about our speaker series and other GSWS-related events. 
-
-## Resources
-- [Disability Resource Services](https://disabilityresources.temple.edu/)
-- [LGBTQIA civil rights, health, and social resources at Temple and in Philadelphia](https://diversity.temple.edu/lgbtqia/lgbtqia-resources) 
-- [Professional Development](https://liberalarts.temple.edu/advising/professional-development)
-- [The Career Center](http://www.temple.edu/provost/careercenter/) 
-- [The Wellness Center](https://wellness.temple.edu/about)
-- [Scholar Development and Fellowship Advising](http://www.temple.edu/vpus/fellowships/index.html)
-- [Student Success Center](https://www.temple.edu/class/)
