@@ -30,7 +30,7 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 For a complete list of our academic offerings visit [liberalarts.temple.edu](http://liberalarts.temple.edu).
 
 ## Is your Major Undeclared?
-If you are entering Temple University as an undeclared major or minor you can declare a GSWS major, minor or LGBT minor by simply making an appointment through the College of Liberal Arts advising center. Please view the [Policies and Porcedures page](https://liberalarts.temple.edu/advising/academic-advising/policies-and-procedures) to learn more. 
+If you are entering Temple University as an undeclared major or minor you can declare a GSWS major, minor or LGBT minor by simply making an appointment through the College of Liberal Arts advising center. Please view the [Policies and Procedures page](https://liberalarts.temple.edu/advising/academic-advising/policies-and-procedures) to learn more. 
 
 ## Visit Us!
 The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](http://admissions.temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand, you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
