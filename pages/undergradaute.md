@@ -36,3 +36,13 @@ We also offer the following 4+1 accelerated B.A. + Master’s degree programs:
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + MA in Sociology](https://liberalarts.temple.edu/ba-gender-sexuality-and-womens-studies-ma)
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + Adult & Organizational Development (M.Ed.)](https://education.temple.edu/node/49403)
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (BA) + Urban Education (M.Ed.)](https://education.temple.edu/node/49793)
+
+## Resources
+- [Disability Resource Services](https://disabilityresources.temple.edu/)
+- [LGBTQIA civil rights, health, and social resources at Temple and in Philadelphia](https://diversity.temple.edu/lgbtqia/lgbtqia-resources) 
+- [Professional Development](https://liberalarts.temple.edu/advising/professional-development)
+- [The Career Center](http://www.temple.edu/provost/careercenter/) 
+- [The Wellness Center](https://wellness.temple.edu/about)
+- [Scholar Development and Fellowship Advising](http://www.temple.edu/vpus/fellowships/index.html)
+- [Student Success Center](https://www.temple.edu/class/)
+
