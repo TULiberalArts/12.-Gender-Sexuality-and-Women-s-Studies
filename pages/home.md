@@ -61,7 +61,7 @@ ___
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="A Vibrant Community"
+        title="A Vibrant Community."
         content="That expands your mind and your network."
         image=""
         button-link="/gender-sexuality-and-womens-studies/student-life#student-organizations/"
