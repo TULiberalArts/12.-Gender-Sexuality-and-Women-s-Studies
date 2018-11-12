@@ -64,7 +64,7 @@ ___
         title="A Vibrant Community"
         content="That expands your mind and your network."
         image=""
-        button-link="https://www.cla.temple.edu/gender-sexuality-and-womens-studies/student-life#student-organizations/"
+        button-link="/gender-sexuality-and-womens-studies/student-life#student-organizations/"
         button-text="Learn More" %}
       </div>
 </div>
