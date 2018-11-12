@@ -31,3 +31,13 @@ Temple graduate students must complete an [internal application form](https://do
 Graduate students enrolled at another university should contact Stephanie Morawski, Program Administrator, at [morawski@temple.edu](mailto:morawski@temple.edu) for an external application form.
 
 For more detailed information about the graduate certificate, please consult the [Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/gender-sexuality-womens-studies-certificate/#text). 
+
+## Resources
+- [Disability Resource Services](https://disabilityresources.temple.edu/)
+- [LGBTQIA civil rights, health, and social resources at Temple and in Philadelphia](https://diversity.temple.edu/lgbtqia/lgbtqia-resources) 
+- [Professional Development](https://liberalarts.temple.edu/advising/professional-development)
+- [The Career Center](http://www.temple.edu/provost/careercenter/) 
+- [The Wellness Center](https://wellness.temple.edu/about)
+- [Scholar Development and Fellowship Advising](http://www.temple.edu/vpus/fellowships/index.html)
+- [Student Success Center](https://www.temple.edu/class/)
+
