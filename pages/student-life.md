@@ -17,7 +17,7 @@ We connect students to internships that are meaningful to them and their specifi
 ## Study Abroad
 What do gender, sexuality and women’s issues look like outside of the United States? Temple’s [Study Abroad Office](https://studyabroad.temple.edu/) can help you explore this question through its Education Abroad programs and Overseas Campuses. Immerse yourself in another culture, and gain a world of experience that will expand your mind and teach you invaluable skills. Grow as a person, and build your resume at the same time.
 
-Learn More about [Study Abroad](https://studyabroad.temple.edu/) opportunities.
+- Learn More about [Study Abroad](https://studyabroad.temple.edu/) opportunities.
 
 ## Student Awards
 The Gender, Sexuality, and Women’s Studies Program has four annual undergraduate awards that honor academic and creative excellence in our students. The awards are acknowledged and celebrated by an annual formal award ceremony sponsored by the College of Liberal Arts for all undergraduate awards granted by departments in the liberal arts. Students invite faculty members to join them in their celebration, as well as family and friends. The event fosters the appreciation of both undergraduate academic achievement and mentor/student relationships.
