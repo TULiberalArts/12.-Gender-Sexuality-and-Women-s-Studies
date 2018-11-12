@@ -43,4 +43,4 @@ Stay connected and get involved with one of our student organizations!
 - [Students for Trans Awareness and Rights (STAR)](https://diversity.temple.edu/lgbtqia/lgbtqia-organizations)
 
 ## Talks and Events
-We host and co-sponsor talks and events by cutting-edge gender and sexuality scholars, practitioners and activists. Follow us on Twittwer [@templegsws](https://twitter.com/templegsws) and [@templeLGBT](https://twitter.com/hashtag/TempleLGBT) to stay in the loop about our speaker series and other GSWS-related events. 
+We host and co-sponsor talks and events by cutting-edge gender and sexuality scholars, practitioners and activists. Follow us on Twitter [@templegsws](https://twitter.com/templegsws) and [@TempleLGBTMinor](https://twitter.com/hashtag/TempleLGBT) to stay in the loop about our speaker series and other GSWS-related events. 
