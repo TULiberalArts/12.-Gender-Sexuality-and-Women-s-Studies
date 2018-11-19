@@ -38,9 +38,22 @@ The Gender, Sexuality, and Women's Studies Certificate of Excellence is awarded 
 
 ## Student Organizations
 Stay connected and get involved with one of our student organizations!
-- [Queer Student Union (QSU)](https://diversity.temple.edu/lgbtqia/lgbtqia-organizations)
-- [Queer People of Color (QPoC)](https://diversity.temple.edu/lgbtqia/lgbtqia-organizations)
-- [Students for Trans Awareness and Rights (STAR)](https://diversity.temple.edu/lgbtqia/lgbtqia-organizations)
+- [Queer Student Union (QSU)](https://temple.campuslabs.com/engage/organization/queer_student_union)
+- [Queer People of Color (QPoC)](https://temple.campuslabs.com/engage/organization/templeqpoc)
+- [Students for Trans Awareness and Rights (STAR)](https://temple.campuslabs.com/engage/organization/STAR)
+- [Feminist Alliance](https://temple.campuslabs.com/engage/organization/FeministAlliance)
+- [Queer Film Collective](https://temple.campuslabs.com/engage/organization/qfctemple)
+- [Queer Nerd Association](https://temple.campuslabs.com/engage/organization/qna)
+- [Association for Computing Machinery-Women](https://temple.campuslabs.com/engage/organization/ACMW)
+- [Association for Women in Mathematics](https://temple.campuslabs.com/engage/organization/templeawm)
+- [Women’s Entrepreneurial Organization](https://temple.campuslabs.com/engage/organization/WEO)
+- [Society of Women Engineers](https://temple.campuslabs.com/engage/organization/swe)
+- [Women in Medicine](https://temple.campuslabs.com/engage/organization/weebly)
+- [American Medical Women’s Association](https://temple.campuslabs.com/engage/organization/American_Medical_Women)
+- [LGBTQ and Allies in Medicine](https://temple.campuslabs.com/engage/organization/lgbthsc)
+- [LGBTQ and Allies in Dentistry](https://temple.campuslabs.com/engage/organization/LGBTAD)
+- [National Council of Negro Women, Inc.-Temple Section](https://temple.campuslabs.com/engage/organization/ncnwtu)
+- [It’s On Us](https://temple.campuslabs.com/engage/organization/itsonuscampaign)
 
 ## Talks and Events
 We host and co-sponsor talks and events by cutting-edge gender and sexuality scholars, practitioners and activists. Follow us on Twitter [@templegsws](https://twitter.com/templegsws) and [@TempleLGBTMinor](https://twitter.com/hashtag/TempleLGBT) to stay in the loop about our speaker series and other GSWS-related events. 
