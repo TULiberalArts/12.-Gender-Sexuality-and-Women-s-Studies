@@ -49,7 +49,7 @@ Stay connected and get involved with one of our student organizations!
 - [Women’s Entrepreneurial Organization](https://temple.campuslabs.com/engage/organization/WEO)
 - [Society of Women Engineers](https://temple.campuslabs.com/engage/organization/swe)
 - [Women in Medicine](https://temple.campuslabs.com/engage/organization/weebly)
-- [American Medical Women’s Association](https://temple.campuslabs.com/engage/organization/American_Medical_Women)
+- [American Medical Women’s Association](https://temple.campuslabs.com/engage/organizations)
 - [LGBTQ and Allies in Medicine](https://temple.campuslabs.com/engage/organization/lgbthsc)
 - [LGBTQ and Allies in Dentistry](https://temple.campuslabs.com/engage/organization/LGBTAD)
 - [National Council of Negro Women, Inc.-Temple Section](https://temple.campuslabs.com/engage/organization/ncnwtu)
