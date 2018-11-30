@@ -13,7 +13,7 @@ keywords: 'sexuality, gender, bachelors degree, jewish womens studies certificat
 
 sidebar: sidebars/undergraduate.html
 ---
-The College of Liberal Arts’ Gender, Sexuality, and Women’s Studies is a small, close-knit program where students receive individual attention from faculty. If you want to further your education on these important issues without earning a full degree our [Certificate of Specialization in GSWS](#gender-sexuality-and-womens-studies-certificate-of-specialization) or minor in [Gender, Sexuality, and Women's Studies]() could be the perfect option for you.
+The College of Liberal Arts’ Gender, Sexuality, and Women’s Studies is a small, close-knit program where students receive individual attention from faculty. If you want to further your education on these important issues without earning a full degree our Certificate in Gender, Sexuality and Women’s Studies, Minor in Gender, Sexuality and Women’s Studies or minor in Gender, Sexuality, and Women's Studies could be the perfect option for you.
 
 ## Unmatched Support
 Our students benefit from small classes taught by renowned faculty who conduct cutting edge research on gender and sexuality. In addition to our core faculty, there are more than 60 faculty both within CLA and in other schools across the university, who are affiliated with our program. Many of these faculty teach courses that our majors and minors can take to fulfill requirements. All of them are committed to the goal of gender and sexuality-based equity.
