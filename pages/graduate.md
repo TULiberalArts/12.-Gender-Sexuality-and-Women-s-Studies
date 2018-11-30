@@ -19,13 +19,13 @@ Factors of gender and sexuality have a multifaceted effect on both individuals a
 ## Graduate Certificate Program
 The Graduate Certificate in Gender, Sexuality and Women’s Studies allows graduate students already enrolled in a Temple University graduate degree program to develop methodological and theoretical expertise in the interdisciplinary field of Gender, Sexuality and Women’s Studies while simultaneously fulfilling the graduate requirements for their degree-granting department. Students in the Certificate program join and benefit from a community of graduate students and faculty committed to the study of gender and sexuality in a wide range of disciplines. 
 
-Students who not enrolled at Temple but are enrolled in a graduate-degree program at another university may also apply for the GSWS graduate certificate program.
+Students who are not enrolled at Temple but are enrolled in a graduate-degree program at another university may also apply for the GSWS graduate certificate program.
 
 - Please visit the Graduate Bulletin for [Course and Research Requirements](http://bulletin.temple.edu/graduate/scd/cla/gender-sexuality-womens-studies-certificate/#programrequirementstext)
 
-### Job Prospects
+## Job Prospects
 The GSWS Graduate Certificate is a credential that enhances students’ prospects in today’s highly competitive academic job market by signaling a demonstrated interest in and commitment to diversity and inclusion. Students are able to apply the expertise they gain in the Certificate program to their scholarly research and teaching interests. Many colleges and universities are looking for job candidates that can both teach mainstream courses in academic departments as well as teach courses that focus on gender and/or sexuality within those departments. All of these factors make the GSWS Graduate Certificate both intellectually enriching and practically useful.  
-### Admissions
+## Admissions
 Temple graduate students must complete an [internal application form](https://docs.google.com/forms/d/e/1FAIpQLSeZNCauCEq-rYfC6-O_T6D6gfnSNBpyR71NT1e7LujMcjBzOg/viewform?usp=sf_link).
 
 Graduate students enrolled at another university should contact Stephanie Morawski, Program Administrator, at [morawski@temple.edu](mailto:morawski@temple.edu) for an external application form.
