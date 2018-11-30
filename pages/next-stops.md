@@ -18,7 +18,8 @@ Our students learn about issues not only intellectually but also actively, throu
 - Government
 - Media Outlets
 - LGBTQ Centers
-- Advertising Firms and Crisis Centers
+- Advertising Firms
+- Crisis Centers
 - Osteopathic Medicine
 - Businness
 
