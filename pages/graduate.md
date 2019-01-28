@@ -28,7 +28,7 @@ The GSWS Graduate Certificate is a credential that enhances students’ prospect
 ## Admissions
 Temple graduate students must complete an [internal application form](https://docs.google.com/forms/d/e/1FAIpQLSeZNCauCEq-rYfC6-O_T6D6gfnSNBpyR71NT1e7LujMcjBzOg/viewform?usp=sf_link).
 
-Graduate students enrolled at another university should contact Stephanie Morawski, Program Administrator, at [morawski@temple.edu](mailto:morawski@temple.edu) for an external application form.
+Applicants not currently enrolled in a Temple graduate degree program must complete an external [application form](https://goo.gl/forms/40fhjeD86YQEQaTv2).
 
 For more detailed information about the graduate certificate, please consult the [Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/gender-sexuality-womens-studies-certificate/#text). 
 
