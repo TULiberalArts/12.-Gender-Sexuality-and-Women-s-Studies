@@ -16,7 +16,7 @@ promotion-table: true
 
 feature: true
 feature-title: Our Program
-feature-image: media/gsws_hero.png   
+feature-image: media/jangenderhero.png
 feature-body: >
   The Gender, Sexuality, and Women's Studies program welcomes students
   interested in an intersectional approach to gender, sexuality, race and other
