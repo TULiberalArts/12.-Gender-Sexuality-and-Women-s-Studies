@@ -12,7 +12,7 @@ description: >-
 # custom variables
 ---
 ## Where to start?
-Ask the Gender, Sexuality and Women’s Studies Librarian, [Caitlin Shanley](https://library.temple.edu/about/staff/caitlin-shanley). She has expertise in feminist and queer research methods and can help you with your GSWS papers and assignments by helping you find, evaluate, and use relevant sources and information.  
+Ask the Gender, Sexuality and Women’s Studies Librarian, [Caitlin Shanley](mailto:cshanley@temple.edu). She has expertise in feminist and queer research methods and can help you with your GSWS papers and assignments by helping you find, evaluate, and use relevant sources and information.  
 
 Need help writing a paper, a resume, a cover letter for a job, a graduate school personal statement, a scholarship essay, or creative writing? [The Writing Center](https://www.temple.edu/class/programs/writing/index.html) offers a variety of tailor-made programs to help you through all of the stages of your writing process: from brainstorming to final revisions. And they can do it all in English or Spanish.   
 
