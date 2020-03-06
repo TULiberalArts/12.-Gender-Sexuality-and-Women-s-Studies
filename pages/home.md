@@ -38,8 +38,8 @@ Above all else, we listen to what you want to learn about. Our students work ind
 - [Undergraduate Certificate in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-gender-sexuality-womens-studies/)
 - [Graduate Certificate in Gender, Sexuality and Women's Studies](https://www.cla.temple.edu/gender-sexuality-and-womens-studies/graduate#graduate-certificate-program)
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + MA in Sociology](https://liberalarts.temple.edu/ba-gender-sexuality-and-womens-studies-ma)
-- 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + Adult & Organizational Development (M.Ed.)](https://education.temple.edu/node/49403)
-- 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (BA) + Urban Education (M.Ed.)](https://education.temple.edu/node/49793)
+- 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + Adult & Organizational Development (M.Ed.)](https://education.temple.edu/node/49166)
+- 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (BA) + Urban Education (M.Ed.)](https://education.temple.edu/academics/programs/1-accelerated-programs/1-programs-urban-education)
 
 ___
 
