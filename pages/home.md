@@ -44,7 +44,7 @@ Above all else, we listen to what you want to learn about. Our students work ind
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="A Degree That Matters."
     content="Think a Gender, Sexuality and Women’s Studies degree isn’t practical? Think Again."
     image=""
@@ -52,7 +52,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Internships That Make A Difference."
       content="We connect you to where you want to be."
       image=""
@@ -60,7 +60,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="A Vibrant Community."
         content="That expands your mind and your network."
         image=""
