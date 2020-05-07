@@ -6,29 +6,23 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  The Gender, Sexuality, and Women’s Studies program explores gender, sexuality, race, and other identities.
-  Housed in the College of Liberal Arts, this is an interdisciplinary program at Temple University.
-  View our academic offerings and earn a BA, Minor, or Certificate.
+  The Gender, Sexuality, and Women’s Studies program explores gender, 
+  sexuality, race, and other identities.Housed in the College of Liberal Arts,  this is an interdisciplinary program at Temple University. View our academic offerings and earn a BA, Minor, or Certificate.
 keywords: 'gender, sexuality, academic offerings, BA, minor, certificate,
 accelerated degree'
 # custom variables
 promotion-table: true
-
 feature: true
-feature-title: Our Program
+feature-title: 
 feature-image: media/gsws_hero.png
 feature-body: >
-  The Gender, Sexuality, and Women's Studies program welcomes students
-  interested in an intersectional approach to gender, sexuality, race and other
-  key identities and the consequences these intersections have in people’s
-  lives. Our courses range from foundations in Gender, Sexuality, and Women’s
-  Studies to gender violence to LGBTQ activism, literature and theory. As an
-  interdisciplinary program housed in the College of Liberal Arts, we explore
-  the many variables that contribute to women's experience as a social group,
-  gender as an analytical category, and the social, political and cultural
-  functioning of sexuality.
 ---
+## Our Program
+The Gender, Sexuality, and Women's Studies program welcomes students interested in an intersectional approach to gender, sexuality, race and other key identities and the consequences these intersections have in people’s lives. Our courses range from foundations in Gender, Sexuality, and Women’s Studies to gender violence to LGBTQ activism, literature and theory. As an interdisciplinary program housed in the College of Liberal Arts, we explore the many variables that contribute to women's experience as a social group, gender as an analytical category, and the social, political and cultural functioning of sexuality.
+
 Above all else, we listen to what you want to learn about. Our students work independently as well as in groups, join student organizations and land internships throughout the region in various industries. Many of our courses are cross-listed with other courses, which makes it easier for students to graduate on time.
+
+___
 
 ## Academic Offerings
 
