@@ -26,11 +26,11 @@ ___
 
 ## Academic Offerings
 
-- [BA in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/ba-gender-sexuality-womens-studies/)
-- [Minor in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-gender-sexuality-womens-studies/)
-- [Minor in LGBT Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/gender-sexuality-womens-studies/minor-lesbian-gay-bisexual-transgender-lgbt/)
-- [Undergraduate Certificate in Gender, Sexuality, and Women’s Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-gender-sexuality-womens-studies/)
-- [Graduate Certificate in Gender, Sexuality and Women's Studies](https://www.cla.temple.edu/gender-sexuality-and-womens-studies/graduate#graduate-certificate-program)
+- [BA in Gender, Sexuality, and Women’s Studies](https://www.temple.edu/academics/degree-programs/gender-sexuality-and-women-s-studies-major-la-gsws-ba)
+- [Minor in Gender, Sexuality, and Women’s Studies](https://www.temple.edu/academics/degree-programs/gender-sexuality-and-women-s-studies-major-la-gsws-ba)
+- [Minor in LGBT Studies](https://www.temple.edu/academics/degree-programs/gender-sexuality-and-women-s-studies-major-la-gsws-ba)
+- [Undergraduate Certificate in Gender, Sexuality, and Women’s Studies](https://www.temple.edu/academics/degree-programs/gender-sexuality-and-women-s-studies-certificate-undergraduate-la-gsws-cert)
+- [Graduate Certificate in Gender, Sexuality and Women's Studies](https://www.temple.edu/academics/degree-programs/gender-sexuality-and-women-s-studies-certificate-graduate-la-gsws-grad)
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + MA in Sociology](https://liberalarts.temple.edu/ba-gender-sexuality-and-womens-studies-ma)
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (B.A.) + Adult & Organizational Development (M.Ed.)](https://education.temple.edu/node/49166)
 - 4+1 Dual Degree: [Gender, Sexuality and Women’s Studies (BA) + Urban Education (M.Ed.)](https://education.temple.edu/academics/programs/1-accelerated-programs/1-programs-urban-education)
