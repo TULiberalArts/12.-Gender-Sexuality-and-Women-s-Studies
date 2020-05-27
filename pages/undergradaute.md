@@ -21,11 +21,11 @@ Our students benefit from small classes taught by renowned faculty who conduct c
 ## Job Prospects
 Our students learn actively through fieldwork and internships connected to their career interests. Our graduates pursue graduate degrees in every field and go on to have careers in business, teaching, healthcare, technology, social work, government, the arts, and much more. Build your resume or portfolio by choosing a major or minor in Gender, Sexuality, and Women's Studies. 
 
-- Learn More About the [Bachelor of Arts in Gender, Sexuality, and Women's Studies](https://www.temple.edu/academics/degree-programs/gender-sexuality-and-women-s-studies-major-la-gsws-ba)
+- Learn More about the [Bachelor of Arts in Gender, Sexuality, and Women's Studies](https://www.temple.edu/academics/degree-programs/gender-sexuality-and-women-s-studies-major-la-gsws-ba)
 
-- Learn More About the [Minor in Gender, Sexuality, and Women's Studies](https://www.temple.edu/academics/degree-programs/gender-sexuality-and-women-s-studies-major-la-gsws-ba)
+- Learn More about the [Minor in Gender, Sexuality, and Women's Studies](https://www.temple.edu/academics/degree-programs/gender-sexuality-and-women-s-studies-major-la-gsws-ba)
 
-- Learn More About the [Minor in Lesbian, Gay, Bisexual & Transgender (LGBT) Studies](https://www.temple.edu/academics/degree-programs/gender-sexuality-and-women-s-studies-major-la-gsws-ba)
+- Learn More about the [Minor in Lesbian, Gay, Bisexual & Transgender (LGBT) Studies](https://www.temple.edu/academics/degree-programs/gender-sexuality-and-women-s-studies-major-la-gsws-ba)
 
 Already majoring in another department or program, but interested in GSWS? Add GSWS as a [double major](https://liberalarts.temple.edu/advising/academic-advising/policies-and-procedures).
 
