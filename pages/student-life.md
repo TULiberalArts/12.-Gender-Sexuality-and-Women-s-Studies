@@ -42,6 +42,3 @@ Stay connected and get involved with one of our student organizations!
 - [LGBTQ and Allies in Dentistry](https://temple.campuslabs.com/engage/organization/LGBTAD)
 - [National Council of Negro Women, Inc.-Temple Section](https://temple.campuslabs.com/engage/organization/ncnwtu)
 - [It’s On Us](https://temple.campuslabs.com/engage/organization/itsonuscampaign)
-
-## Talks and Events
-We host and co-sponsor talks and events by cutting-edge gender and sexuality scholars, practitioners and activists. Follow us on Twitter [@templegsws](https://twitter.com/templegsws) and [@TempleLGBTMinor](https://twitter.com/hashtag/TempleLGBT) to stay in the loop about our speaker series and other GSWS-related events. 
